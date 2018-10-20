@@ -65,8 +65,9 @@ public class GeradorNumerosAleatorios {
 	
 	public static void main(String[] args) {
 		GeradorNumerosAleatorios gerador = new GeradorNumerosAleatorios(7);
-		gerarArquivo("metodo misto",Arrays.toString(gerador.metodoMisto(3, 1, 20).toArray()));
-		gerarArquivo("metodo multiplicativo",Arrays.toString(gerador.metodoMultiplicativo(7, 40).toArray()));
+		gerarArquivo("metodo misto1",Arrays.toString(gerador.metodoMisto(1, 0, 10).toArray()));
+		gerarArquivo("metodo misto2",Arrays.toString(gerador.metodoMisto(1, 0, 5).toArray()));
+		gerarArquivo("metodo multiplicativo",Arrays.toString(gerador.metodoMultiplicativo(7, 10).toArray()));
 		gerarArquivo("metodo aditivo",Arrays.toString(gerador.metodoAditivo(new ArrayList<Integer>(Arrays.asList(25, 55, 78, 87, 32)), 100).toArray()));
 	}
 }
