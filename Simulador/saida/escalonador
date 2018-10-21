@@ -4,1417 +4,1417 @@ Tempo de escalonamento300'
  Chegada de fregues 2 em 0'
 -*-
 
-FILA 2 Sistema livre em 1'
-FILA 2 Tamanho da fila 2 em 1'0
+< Fila 2 > Sistema livre em 1'
+< Fila 2 > Tamanho da fila 2 em 1'0
 -*-
-FILA 2 Sistema livre em 2'
-FILA 2 Tamanho da fila 2 em 2'0
+< Fila 2 > Sistema livre em 2'
+< Fila 2 > Tamanho da fila 2 em 2'0
 -*-
-FILA 2 Sistema livre em 3'
-FILA 2 Tamanho da fila 2 em 3'0
+< Fila 2 > Sistema livre em 3'
+< Fila 2 > Tamanho da fila 2 em 3'0
 -*-
-FILA 2 Sistema livre em 4'
-FILA 2 Tamanho da fila 2 em 4'0
+< Fila 2 > Sistema livre em 4'
+< Fila 2 > Tamanho da fila 2 em 4'0
 -*-
-FILA 2 Sistema livre em 5'
-FILA 2 Tamanho da fila 2 em 5'0
+< Fila 2 > Sistema livre em 5'
+< Fila 2 > Tamanho da fila 2 em 5'0
 -*-
-FILA 2 Sistema livre em 6'
-FILA 2 Tamanho da fila 2 em 6'0
+< Fila 2 > Sistema livre em 6'
+< Fila 2 > Tamanho da fila 2 em 6'0
 -*-
-FILA 1 Evento 1 > Chegada de fregues na Fila 1 aos 7'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 7'
-FILA 1 atendimento do Sistema encerrado em 5'
-FILA 1 Proximo fregues em 5'
-FILA 1 Sistema ocupada em 7'
-FILA 1 Tamanho da fila 1 em 7'0
+< Fila 1 > Evento 1 > Chegada de fregues na Fila 1 aos 7'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 7'
+< Fila 1 > atendimento do Sistema encerrado em 5'
+< Fila 1 > Proximo fregues em 5'
+< Fila 1 > Sistema ocupada em 7'
+< Fila 1 > Tamanho da fila 1 em 7'0
 -*-
-FILA 2 Sistema livre em 7'
-FILA 2 Tamanho da fila 2 em 7'0
+< Fila 2 > Sistema livre em 7'
+< Fila 2 > Tamanho da fila 2 em 7'0
 -*-
-FILA 2 Sistema livre em 7'
-FILA 2 Tamanho da fila 2 em 7'0
+< Fila 2 > Sistema livre em 7'
+< Fila 2 > Tamanho da fila 2 em 7'0
 -*-
-FILA 2 Sistema livre em 8'
-FILA 2 Tamanho da fila 2 em 8'0
+< Fila 2 > Sistema livre em 8'
+< Fila 2 > Tamanho da fila 2 em 8'0
 -*-
-FILA 2 Sistema livre em 9'
-FILA 2 Tamanho da fila 2 em 9'0
+< Fila 2 > Sistema livre em 9'
+< Fila 2 > Tamanho da fila 2 em 9'0
 -*-
-FILA 2 Sistema livre em 10'
-FILA 2 Tamanho da fila 2 em 10'0
+< Fila 2 > Sistema livre em 10'
+< Fila 2 > Tamanho da fila 2 em 10'0
 -*-
-FILA 2 Sistema livre em 11'
-FILA 2 Tamanho da fila 2 em 11'0
+< Fila 2 > Sistema livre em 11'
+< Fila 2 > Tamanho da fila 2 em 11'0
 -*-
-FILA 1 Evento 1 > Chegada de fregues na Fila 1 aos 12'
-FILA 1 Evento 4 > esperando atendimento
-FILA 1 Tamanho da fila 1 em 12'1
-FILA 1 Proximo fregues em 5'
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 12'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 12'
-FILA 1 atendimento do Sistema encerrado em 5'
-FILA 1 Sistema ocupada em 12'
-FILA 1 Tamanho da fila 1 em 12'1
+< Fila 1 > Evento 1 > Chegada de fregues na Fila 1 aos 12'
+< Fila 1 > Evento 4 > esperando atendimento
+< Fila 1 > Tamanho da fila 1 em 12'1
+< Fila 1 > Proximo fregues em 5'
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 12'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 12'
+< Fila 1 > atendimento do Sistema encerrado em 5'
+< Fila 1 > Sistema ocupada em 12'
+< Fila 1 > Tamanho da fila 1 em 12'1
 -*-
-FILA 2 Sistema livre em 12'
-FILA 2 Tamanho da fila 2 em 12'0
+< Fila 2 > Sistema livre em 12'
+< Fila 2 > Tamanho da fila 2 em 12'0
 -*-
-FILA 2 Sistema livre em 12'
-FILA 2 Tamanho da fila 2 em 12'0
+< Fila 2 > Sistema livre em 12'
+< Fila 2 > Tamanho da fila 2 em 12'0
 -*-
-FILA 2 Sistema livre em 13'
-FILA 2 Tamanho da fila 2 em 13'0
+< Fila 2 > Sistema livre em 13'
+< Fila 2 > Tamanho da fila 2 em 13'0
 -*-
-FILA 2 Sistema livre em 14'
-FILA 2 Tamanho da fila 2 em 14'0
+< Fila 2 > Sistema livre em 14'
+< Fila 2 > Tamanho da fila 2 em 14'0
 -*-
-FILA 2 Sistema livre em 15'
-FILA 2 Tamanho da fila 2 em 15'0
+< Fila 2 > Sistema livre em 15'
+< Fila 2 > Tamanho da fila 2 em 15'0
 -*-
-FILA 1 Evento 1 > Chegada de fregues na Fila 1 aos 16'
-FILA 1 Evento 4 > esperando atendimento
-FILA 1 Tamanho da fila 1 em 16'2
-FILA 1 Proximo fregues em 5'
-FILA 1 Sistema ocupada em 16'
-FILA 1 Tamanho da fila 1 em 16'2
+< Fila 1 > Evento 1 > Chegada de fregues na Fila 1 aos 16'
+< Fila 1 > Evento 4 > esperando atendimento
+< Fila 1 > Tamanho da fila 1 em 16'2
+< Fila 1 > Proximo fregues em 5'
+< Fila 1 > Sistema ocupada em 16'
+< Fila 1 > Tamanho da fila 1 em 16'2
 -*-
-FILA 2 Sistema livre em 16'
-FILA 2 Tamanho da fila 2 em 16'0
+< Fila 2 > Sistema livre em 16'
+< Fila 2 > Tamanho da fila 2 em 16'0
 -*-
-FILA 2 Sistema livre em 16'
-FILA 2 Tamanho da fila 2 em 16'0
+< Fila 2 > Sistema livre em 16'
+< Fila 2 > Tamanho da fila 2 em 16'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 17'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 17'
-FILA 1 atendimento do Sistema encerrado em 5'
-FILA 1 Sistema ocupada em 17'
-FILA 1 Tamanho da fila 1 em 17'2
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 17'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 17'
+< Fila 1 > atendimento do Sistema encerrado em 5'
+< Fila 1 > Sistema ocupada em 17'
+< Fila 1 > Tamanho da fila 1 em 17'2
 -*-
-FILA 2 Sistema livre em 17'
-FILA 2 Tamanho da fila 2 em 17'0
+< Fila 2 > Sistema livre em 17'
+< Fila 2 > Tamanho da fila 2 em 17'0
 -*-
-FILA 2 Sistema livre em 17'
-FILA 2 Tamanho da fila 2 em 17'0
+< Fila 2 > Sistema livre em 17'
+< Fila 2 > Tamanho da fila 2 em 17'0
 -*-
-FILA 2 Sistema livre em 18'
-FILA 2 Tamanho da fila 2 em 18'0
+< Fila 2 > Sistema livre em 18'
+< Fila 2 > Tamanho da fila 2 em 18'0
 -*-
-FILA 2 Sistema livre em 19'
-FILA 2 Tamanho da fila 2 em 19'0
+< Fila 2 > Sistema livre em 19'
+< Fila 2 > Tamanho da fila 2 em 19'0
 -*-
-FILA 1 Evento 1 > Chegada de fregues na Fila 1 aos 20'
-FILA 1 Evento 4 > esperando atendimento
-FILA 1 Tamanho da fila 1 em 20'3
-FILA 1 Proximo fregues em 5'
-FILA 1 Sistema ocupada em 20'
-FILA 1 Tamanho da fila 1 em 20'3
+< Fila 1 > Evento 1 > Chegada de fregues na Fila 1 aos 20'
+< Fila 1 > Evento 4 > esperando atendimento
+< Fila 1 > Tamanho da fila 1 em 20'3
+< Fila 1 > Proximo fregues em 5'
+< Fila 1 > Sistema ocupada em 20'
+< Fila 1 > Tamanho da fila 1 em 20'3
 -*-
-FILA 2 Sistema livre em 20'
-FILA 2 Tamanho da fila 2 em 20'0
+< Fila 2 > Sistema livre em 20'
+< Fila 2 > Tamanho da fila 2 em 20'0
 -*-
-FILA 2 Sistema livre em 20'
-FILA 2 Tamanho da fila 2 em 20'0
+< Fila 2 > Sistema livre em 20'
+< Fila 2 > Tamanho da fila 2 em 20'0
 -*-
-FILA 2 Sistema livre em 21'
-FILA 2 Tamanho da fila 2 em 21'0
+< Fila 2 > Sistema livre em 21'
+< Fila 2 > Tamanho da fila 2 em 21'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 22'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 22'
-FILA 1 atendimento do Sistema encerrado em 5'
-FILA 1 Sistema ocupada em 22'
-FILA 1 Tamanho da fila 1 em 22'3
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 22'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 22'
+< Fila 1 > atendimento do Sistema encerrado em 5'
+< Fila 1 > Sistema ocupada em 22'
+< Fila 1 > Tamanho da fila 1 em 22'3
 -*-
-FILA 2 Sistema livre em 22'
-FILA 2 Tamanho da fila 2 em 22'0
+< Fila 2 > Sistema livre em 22'
+< Fila 2 > Tamanho da fila 2 em 22'0
 -*-
-FILA 2 Sistema livre em 22'
-FILA 2 Tamanho da fila 2 em 22'0
+< Fila 2 > Sistema livre em 22'
+< Fila 2 > Tamanho da fila 2 em 22'0
 -*-
-FILA 2 Sistema livre em 23'
-FILA 2 Tamanho da fila 2 em 23'0
+< Fila 2 > Sistema livre em 23'
+< Fila 2 > Tamanho da fila 2 em 23'0
 -*-
-FILA 1 Evento 1 > Chegada de fregues na Fila 1 aos 24'
-FILA 1 Evento 4 > esperando atendimento
-FILA 1 Tamanho da fila 1 em 24'4
-FILA 1 Proximo fregues em 7'
-FILA 1 Sistema ocupada em 24'
-FILA 1 Tamanho da fila 1 em 24'4
+< Fila 1 > Evento 1 > Chegada de fregues na Fila 1 aos 24'
+< Fila 1 > Evento 4 > esperando atendimento
+< Fila 1 > Tamanho da fila 1 em 24'4
+< Fila 1 > Proximo fregues em 7'
+< Fila 1 > Sistema ocupada em 24'
+< Fila 1 > Tamanho da fila 1 em 24'4
 -*-
-FILA 2 Sistema livre em 24'
-FILA 2 Tamanho da fila 2 em 24'0
+< Fila 2 > Sistema livre em 24'
+< Fila 2 > Tamanho da fila 2 em 24'0
 -*-
-FILA 2 Sistema livre em 24'
-FILA 2 Tamanho da fila 2 em 24'0
+< Fila 2 > Sistema livre em 24'
+< Fila 2 > Tamanho da fila 2 em 24'0
 -*-
-FILA 2 Sistema livre em 25'
-FILA 2 Tamanho da fila 2 em 25'0
+< Fila 2 > Sistema livre em 25'
+< Fila 2 > Tamanho da fila 2 em 25'0
 -*-
-FILA 2 Sistema livre em 26'
-FILA 2 Tamanho da fila 2 em 26'0
+< Fila 2 > Sistema livre em 26'
+< Fila 2 > Tamanho da fila 2 em 26'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 27'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 27'
-FILA 1 atendimento do Sistema encerrado em 9'
-FILA 1 Sistema ocupada em 27'
-FILA 1 Tamanho da fila 1 em 27'4
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 27'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 27'
+< Fila 1 > atendimento do Sistema encerrado em 9'
+< Fila 1 > Sistema ocupada em 27'
+< Fila 1 > Tamanho da fila 1 em 27'4
 -*-
-FILA 2 Sistema livre em 27'
-FILA 2 Tamanho da fila 2 em 27'0
+< Fila 2 > Sistema livre em 27'
+< Fila 2 > Tamanho da fila 2 em 27'0
 -*-
-FILA 2 Sistema livre em 27'
-FILA 2 Tamanho da fila 2 em 27'0
+< Fila 2 > Sistema livre em 27'
+< Fila 2 > Tamanho da fila 2 em 27'0
 -*-
-FILA 2 Sistema livre em 28'
-FILA 2 Tamanho da fila 2 em 28'0
+< Fila 2 > Sistema livre em 28'
+< Fila 2 > Tamanho da fila 2 em 28'0
 -*-
-FILA 2 Sistema livre em 29'
-FILA 2 Tamanho da fila 2 em 29'0
+< Fila 2 > Sistema livre em 29'
+< Fila 2 > Tamanho da fila 2 em 29'0
 -*-
-FILA 1 Evento 1 > Chegada de fregues na Fila 1 aos 30'
-FILA 1 Evento 4 > esperando atendimento
-FILA 1 Tamanho da fila 1 em 30'5
-FILA 1 Proximo fregues em 10'
-FILA 1 Sistema ocupada em 30'
-FILA 1 Tamanho da fila 1 em 30'5
+< Fila 1 > Evento 1 > Chegada de fregues na Fila 1 aos 30'
+< Fila 1 > Evento 4 > esperando atendimento
+< Fila 1 > Tamanho da fila 1 em 30'5
+< Fila 1 > Proximo fregues em 10'
+< Fila 1 > Sistema ocupada em 30'
+< Fila 1 > Tamanho da fila 1 em 30'5
 -*-
-FILA 2 Sistema livre em 30'
-FILA 2 Tamanho da fila 2 em 30'0
+< Fila 2 > Sistema livre em 30'
+< Fila 2 > Tamanho da fila 2 em 30'0
 -*-
-FILA 2 Sistema livre em 30'
-FILA 2 Tamanho da fila 2 em 30'0
+< Fila 2 > Sistema livre em 30'
+< Fila 2 > Tamanho da fila 2 em 30'0
 -*-
-FILA 2 Sistema livre em 31'
-FILA 2 Tamanho da fila 2 em 31'0
+< Fila 2 > Sistema livre em 31'
+< Fila 2 > Tamanho da fila 2 em 31'0
 -*-
-FILA 2 Sistema livre em 32'
-FILA 2 Tamanho da fila 2 em 32'0
+< Fila 2 > Sistema livre em 32'
+< Fila 2 > Tamanho da fila 2 em 32'0
 -*-
-FILA 2 Sistema livre em 33'
-FILA 2 Tamanho da fila 2 em 33'0
+< Fila 2 > Sistema livre em 33'
+< Fila 2 > Tamanho da fila 2 em 33'0
 -*-
-FILA 2 Sistema livre em 34'
-FILA 2 Tamanho da fila 2 em 34'0
+< Fila 2 > Sistema livre em 34'
+< Fila 2 > Tamanho da fila 2 em 34'0
 -*-
-FILA 2 Sistema livre em 35'
-FILA 2 Tamanho da fila 2 em 35'0
+< Fila 2 > Sistema livre em 35'
+< Fila 2 > Tamanho da fila 2 em 35'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 36'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 36'
-FILA 1 atendimento do Sistema encerrado em 5'
-FILA 1 Sistema ocupada em 36'
-FILA 1 Tamanho da fila 1 em 36'5
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 36'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 36'
+< Fila 1 > atendimento do Sistema encerrado em 5'
+< Fila 1 > Sistema ocupada em 36'
+< Fila 1 > Tamanho da fila 1 em 36'5
 -*-
-FILA 2 Sistema livre em 36'
-FILA 2 Tamanho da fila 2 em 36'0
+< Fila 2 > Sistema livre em 36'
+< Fila 2 > Tamanho da fila 2 em 36'0
 -*-
-FILA 2 Sistema livre em 36'
-FILA 2 Tamanho da fila 2 em 36'0
+< Fila 2 > Sistema livre em 36'
+< Fila 2 > Tamanho da fila 2 em 36'0
 -*-
-FILA 2 Sistema livre em 37'
-FILA 2 Tamanho da fila 2 em 37'0
+< Fila 2 > Sistema livre em 37'
+< Fila 2 > Tamanho da fila 2 em 37'0
 -*-
-FILA 2 Sistema livre em 38'
-FILA 2 Tamanho da fila 2 em 38'0
+< Fila 2 > Sistema livre em 38'
+< Fila 2 > Tamanho da fila 2 em 38'0
 -*-
-FILA 1 Evento 1 > Chegada de fregues na Fila 1 aos 39'
-FILA 1 Evento 4 > esperando atendimento
-FILA 1 Tamanho da fila 1 em 39'6
-FILA 1 Proximo fregues em 8'
-FILA 1 Sistema ocupada em 39'
-FILA 1 Tamanho da fila 1 em 39'6
+< Fila 1 > Evento 1 > Chegada de fregues na Fila 1 aos 39'
+< Fila 1 > Evento 4 > esperando atendimento
+< Fila 1 > Tamanho da fila 1 em 39'6
+< Fila 1 > Proximo fregues em 8'
+< Fila 1 > Sistema ocupada em 39'
+< Fila 1 > Tamanho da fila 1 em 39'6
 -*-
-FILA 2 Sistema livre em 39'
-FILA 2 Tamanho da fila 2 em 39'0
+< Fila 2 > Sistema livre em 39'
+< Fila 2 > Tamanho da fila 2 em 39'0
 -*-
-FILA 2 Sistema livre em 39'
-FILA 2 Tamanho da fila 2 em 39'0
+< Fila 2 > Sistema livre em 39'
+< Fila 2 > Tamanho da fila 2 em 39'0
 -*-
-FILA 2 Sistema livre em 40'
-FILA 2 Tamanho da fila 2 em 40'0
+< Fila 2 > Sistema livre em 40'
+< Fila 2 > Tamanho da fila 2 em 40'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 41'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 41'
-FILA 1 atendimento do Sistema encerrado em 4'
-FILA 1 Sistema ocupada em 41'
-FILA 1 Tamanho da fila 1 em 41'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 41'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 41'
+< Fila 1 > atendimento do Sistema encerrado em 4'
+< Fila 1 > Sistema ocupada em 41'
+< Fila 1 > Tamanho da fila 1 em 41'6
 -*-
-FILA 2 Sistema livre em 41'
-FILA 2 Tamanho da fila 2 em 41'0
+< Fila 2 > Sistema livre em 41'
+< Fila 2 > Tamanho da fila 2 em 41'0
 -*-
-FILA 2 Sistema livre em 41'
-FILA 2 Tamanho da fila 2 em 41'0
+< Fila 2 > Sistema livre em 41'
+< Fila 2 > Tamanho da fila 2 em 41'0
 -*-
-FILA 2 Sistema livre em 42'
-FILA 2 Tamanho da fila 2 em 42'0
+< Fila 2 > Sistema livre em 42'
+< Fila 2 > Tamanho da fila 2 em 42'0
 -*-
-FILA 2 Sistema livre em 43'
-FILA 2 Tamanho da fila 2 em 43'0
+< Fila 2 > Sistema livre em 43'
+< Fila 2 > Tamanho da fila 2 em 43'0
 -*-
-FILA 2 Sistema livre em 44'
-FILA 2 Tamanho da fila 2 em 44'0
+< Fila 2 > Sistema livre em 44'
+< Fila 2 > Tamanho da fila 2 em 44'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 45'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 45'
-FILA 1 atendimento do Sistema encerrado em 2'
-FILA 1 Sistema ocupada em 45'
-FILA 1 Tamanho da fila 1 em 45'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 45'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 45'
+< Fila 1 > atendimento do Sistema encerrado em 2'
+< Fila 1 > Sistema ocupada em 45'
+< Fila 1 > Tamanho da fila 1 em 45'6
 -*-
-FILA 2 Sistema livre em 45'
-FILA 2 Tamanho da fila 2 em 45'0
+< Fila 2 > Sistema livre em 45'
+< Fila 2 > Tamanho da fila 2 em 45'0
 -*-
-FILA 2 Sistema livre em 45'
-FILA 2 Tamanho da fila 2 em 45'0
+< Fila 2 > Sistema livre em 45'
+< Fila 2 > Tamanho da fila 2 em 45'0
 -*-
-FILA 2 Sistema livre em 46'
-FILA 2 Tamanho da fila 2 em 46'0
+< Fila 2 > Sistema livre em 46'
+< Fila 2 > Tamanho da fila 2 em 46'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 47'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 47'
-FILA 1 atendimento do Sistema encerrado em 1'
-FILA 1 Sistema ocupada em 47'
-FILA 1 Tamanho da fila 1 em 47'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 47'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 47'
+< Fila 1 > atendimento do Sistema encerrado em 1'
+< Fila 1 > Sistema ocupada em 47'
+< Fila 1 > Tamanho da fila 1 em 47'6
 -*-
-FILA 2 Sistema livre em 47'
-FILA 2 Tamanho da fila 2 em 47'0
+< Fila 2 > Sistema livre em 47'
+< Fila 2 > Tamanho da fila 2 em 47'0
 -*-
-FILA 2 Sistema livre em 47'
-FILA 2 Tamanho da fila 2 em 47'0
+< Fila 2 > Sistema livre em 47'
+< Fila 2 > Tamanho da fila 2 em 47'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 48'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 48'
-FILA 1 atendimento do Sistema encerrado em 6'
-FILA 1 Sistema ocupada em 48'
-FILA 1 Tamanho da fila 1 em 48'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 48'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 48'
+< Fila 1 > atendimento do Sistema encerrado em 6'
+< Fila 1 > Sistema ocupada em 48'
+< Fila 1 > Tamanho da fila 1 em 48'6
 -*-
-FILA 2 Sistema livre em 48'
-FILA 2 Tamanho da fila 2 em 48'0
+< Fila 2 > Sistema livre em 48'
+< Fila 2 > Tamanho da fila 2 em 48'0
 -*-
-FILA 2 Sistema livre em 48'
-FILA 2 Tamanho da fila 2 em 48'0
+< Fila 2 > Sistema livre em 48'
+< Fila 2 > Tamanho da fila 2 em 48'0
 -*-
-FILA 2 Sistema livre em 49'
-FILA 2 Tamanho da fila 2 em 49'0
+< Fila 2 > Sistema livre em 49'
+< Fila 2 > Tamanho da fila 2 em 49'0
 -*-
-FILA 2 Sistema livre em 50'
-FILA 2 Tamanho da fila 2 em 50'0
+< Fila 2 > Sistema livre em 50'
+< Fila 2 > Tamanho da fila 2 em 50'0
 -*-
-FILA 2 Sistema livre em 51'
-FILA 2 Tamanho da fila 2 em 51'0
+< Fila 2 > Sistema livre em 51'
+< Fila 2 > Tamanho da fila 2 em 51'0
 -*-
-FILA 2 Sistema livre em 52'
-FILA 2 Tamanho da fila 2 em 52'0
+< Fila 2 > Sistema livre em 52'
+< Fila 2 > Tamanho da fila 2 em 52'0
 -*-
-FILA 2 Sistema livre em 53'
-FILA 2 Tamanho da fila 2 em 53'0
+< Fila 2 > Sistema livre em 53'
+< Fila 2 > Tamanho da fila 2 em 53'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 54'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 54'
-FILA 1 atendimento do Sistema encerrado em 3'
-FILA 1 Sistema ocupada em 54'
-FILA 1 Tamanho da fila 1 em 54'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 54'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 54'
+< Fila 1 > atendimento do Sistema encerrado em 3'
+< Fila 1 > Sistema ocupada em 54'
+< Fila 1 > Tamanho da fila 1 em 54'6
 -*-
-FILA 2 Sistema livre em 54'
-FILA 2 Tamanho da fila 2 em 54'0
+< Fila 2 > Sistema livre em 54'
+< Fila 2 > Tamanho da fila 2 em 54'0
 -*-
-FILA 2 Sistema livre em 54'
-FILA 2 Tamanho da fila 2 em 54'0
+< Fila 2 > Sistema livre em 54'
+< Fila 2 > Tamanho da fila 2 em 54'0
 -*-
-FILA 2 Sistema livre em 55'
-FILA 2 Tamanho da fila 2 em 55'0
+< Fila 2 > Sistema livre em 55'
+< Fila 2 > Tamanho da fila 2 em 55'0
 -*-
-FILA 2 Sistema livre em 56'
-FILA 2 Tamanho da fila 2 em 56'0
+< Fila 2 > Sistema livre em 56'
+< Fila 2 > Tamanho da fila 2 em 56'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 57'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 57'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 57'
-FILA 1 Tamanho da fila 1 em 57'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 57'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 57'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 57'
+< Fila 1 > Tamanho da fila 1 em 57'6
 -*-
-FILA 2 Sistema livre em 57'
-FILA 2 Tamanho da fila 2 em 57'0
+< Fila 2 > Sistema livre em 57'
+< Fila 2 > Tamanho da fila 2 em 57'0
 -*-
-FILA 2 Sistema livre em 57'
-FILA 2 Tamanho da fila 2 em 57'0
+< Fila 2 > Sistema livre em 57'
+< Fila 2 > Tamanho da fila 2 em 57'0
 -*-
-FILA 2 Sistema livre em 58'
-FILA 2 Tamanho da fila 2 em 58'0
+< Fila 2 > Sistema livre em 58'
+< Fila 2 > Tamanho da fila 2 em 58'0
 -*-
-FILA 2 Sistema livre em 59'
-FILA 2 Tamanho da fila 2 em 59'0
+< Fila 2 > Sistema livre em 59'
+< Fila 2 > Tamanho da fila 2 em 59'0
 -*-
-FILA 2 Sistema livre em 60'
-FILA 2 Tamanho da fila 2 em 60'0
+< Fila 2 > Sistema livre em 60'
+< Fila 2 > Tamanho da fila 2 em 60'0
 -*-
-FILA 2 Sistema livre em 61'
-FILA 2 Tamanho da fila 2 em 61'0
+< Fila 2 > Sistema livre em 61'
+< Fila 2 > Tamanho da fila 2 em 61'0
 -*-
-FILA 2 Sistema livre em 62'
-FILA 2 Tamanho da fila 2 em 62'0
+< Fila 2 > Sistema livre em 62'
+< Fila 2 > Tamanho da fila 2 em 62'0
 -*-
-FILA 2 Sistema livre em 63'
-FILA 2 Tamanho da fila 2 em 63'0
+< Fila 2 > Sistema livre em 63'
+< Fila 2 > Tamanho da fila 2 em 63'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 64'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 64'
-FILA 1 atendimento do Sistema encerrado em 1'
-FILA 1 Sistema ocupada em 64'
-FILA 1 Tamanho da fila 1 em 64'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 64'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 64'
+< Fila 1 > atendimento do Sistema encerrado em 1'
+< Fila 1 > Sistema ocupada em 64'
+< Fila 1 > Tamanho da fila 1 em 64'6
 -*-
-FILA 2 Sistema livre em 64'
-FILA 2 Tamanho da fila 2 em 64'0
+< Fila 2 > Sistema livre em 64'
+< Fila 2 > Tamanho da fila 2 em 64'0
 -*-
-FILA 2 Sistema livre em 64'
-FILA 2 Tamanho da fila 2 em 64'0
+< Fila 2 > Sistema livre em 64'
+< Fila 2 > Tamanho da fila 2 em 64'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 65'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 65'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 65'
-FILA 1 Tamanho da fila 1 em 65'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 65'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 65'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 65'
+< Fila 1 > Tamanho da fila 1 em 65'6
 -*-
-FILA 2 Sistema livre em 65'
-FILA 2 Tamanho da fila 2 em 65'0
+< Fila 2 > Sistema livre em 65'
+< Fila 2 > Tamanho da fila 2 em 65'0
 -*-
-FILA 2 Sistema livre em 65'
-FILA 2 Tamanho da fila 2 em 65'0
+< Fila 2 > Sistema livre em 65'
+< Fila 2 > Tamanho da fila 2 em 65'0
 -*-
-FILA 2 Sistema livre em 66'
-FILA 2 Tamanho da fila 2 em 66'0
+< Fila 2 > Sistema livre em 66'
+< Fila 2 > Tamanho da fila 2 em 66'0
 -*-
-FILA 2 Sistema livre em 67'
-FILA 2 Tamanho da fila 2 em 67'0
+< Fila 2 > Sistema livre em 67'
+< Fila 2 > Tamanho da fila 2 em 67'0
 -*-
-FILA 2 Sistema livre em 68'
-FILA 2 Tamanho da fila 2 em 68'0
+< Fila 2 > Sistema livre em 68'
+< Fila 2 > Tamanho da fila 2 em 68'0
 -*-
-FILA 2 Sistema livre em 69'
-FILA 2 Tamanho da fila 2 em 69'0
+< Fila 2 > Sistema livre em 69'
+< Fila 2 > Tamanho da fila 2 em 69'0
 -*-
-FILA 2 Sistema livre em 70'
-FILA 2 Tamanho da fila 2 em 70'0
+< Fila 2 > Sistema livre em 70'
+< Fila 2 > Tamanho da fila 2 em 70'0
 -*-
-FILA 2 Sistema livre em 71'
-FILA 2 Tamanho da fila 2 em 71'0
+< Fila 2 > Sistema livre em 71'
+< Fila 2 > Tamanho da fila 2 em 71'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 72'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 72'
-FILA 1 atendimento do Sistema encerrado em 1'
-FILA 1 Sistema ocupada em 72'
-FILA 1 Tamanho da fila 1 em 72'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 72'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 72'
+< Fila 1 > atendimento do Sistema encerrado em 1'
+< Fila 1 > Sistema ocupada em 72'
+< Fila 1 > Tamanho da fila 1 em 72'6
 -*-
-FILA 2 Sistema livre em 72'
-FILA 2 Tamanho da fila 2 em 72'0
+< Fila 2 > Sistema livre em 72'
+< Fila 2 > Tamanho da fila 2 em 72'0
 -*-
-FILA 2 Sistema livre em 72'
-FILA 2 Tamanho da fila 2 em 72'0
+< Fila 2 > Sistema livre em 72'
+< Fila 2 > Tamanho da fila 2 em 72'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 73'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 73'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 73'
-FILA 1 Tamanho da fila 1 em 73'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 73'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 73'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 73'
+< Fila 1 > Tamanho da fila 1 em 73'6
 -*-
-FILA 2 Sistema livre em 73'
-FILA 2 Tamanho da fila 2 em 73'0
+< Fila 2 > Sistema livre em 73'
+< Fila 2 > Tamanho da fila 2 em 73'0
 -*-
-FILA 2 Sistema livre em 73'
-FILA 2 Tamanho da fila 2 em 73'0
+< Fila 2 > Sistema livre em 73'
+< Fila 2 > Tamanho da fila 2 em 73'0
 -*-
-FILA 2 Sistema livre em 74'
-FILA 2 Tamanho da fila 2 em 74'0
+< Fila 2 > Sistema livre em 74'
+< Fila 2 > Tamanho da fila 2 em 74'0
 -*-
-FILA 2 Sistema livre em 75'
-FILA 2 Tamanho da fila 2 em 75'0
+< Fila 2 > Sistema livre em 75'
+< Fila 2 > Tamanho da fila 2 em 75'0
 -*-
-FILA 2 Sistema livre em 76'
-FILA 2 Tamanho da fila 2 em 76'0
+< Fila 2 > Sistema livre em 76'
+< Fila 2 > Tamanho da fila 2 em 76'0
 -*-
-FILA 2 Sistema livre em 77'
-FILA 2 Tamanho da fila 2 em 77'0
+< Fila 2 > Sistema livre em 77'
+< Fila 2 > Tamanho da fila 2 em 77'0
 -*-
-FILA 2 Sistema livre em 78'
-FILA 2 Tamanho da fila 2 em 78'0
+< Fila 2 > Sistema livre em 78'
+< Fila 2 > Tamanho da fila 2 em 78'0
 -*-
-FILA 2 Sistema livre em 79'
-FILA 2 Tamanho da fila 2 em 79'0
+< Fila 2 > Sistema livre em 79'
+< Fila 2 > Tamanho da fila 2 em 79'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 80'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 80'
-FILA 1 atendimento do Sistema encerrado em 1'
-FILA 1 Sistema ocupada em 80'
-FILA 1 Tamanho da fila 1 em 80'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 80'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 80'
+< Fila 1 > atendimento do Sistema encerrado em 1'
+< Fila 1 > Sistema ocupada em 80'
+< Fila 1 > Tamanho da fila 1 em 80'6
 -*-
-FILA 2 Sistema livre em 80'
-FILA 2 Tamanho da fila 2 em 80'0
+< Fila 2 > Sistema livre em 80'
+< Fila 2 > Tamanho da fila 2 em 80'0
 -*-
-FILA 2 Sistema livre em 80'
-FILA 2 Tamanho da fila 2 em 80'0
+< Fila 2 > Sistema livre em 80'
+< Fila 2 > Tamanho da fila 2 em 80'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 81'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 81'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 81'
-FILA 1 Tamanho da fila 1 em 81'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 81'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 81'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 81'
+< Fila 1 > Tamanho da fila 1 em 81'6
 -*-
-FILA 2 Sistema livre em 81'
-FILA 2 Tamanho da fila 2 em 81'0
+< Fila 2 > Sistema livre em 81'
+< Fila 2 > Tamanho da fila 2 em 81'0
 -*-
-FILA 2 Sistema livre em 81'
-FILA 2 Tamanho da fila 2 em 81'0
+< Fila 2 > Sistema livre em 81'
+< Fila 2 > Tamanho da fila 2 em 81'0
 -*-
-FILA 2 Sistema livre em 82'
-FILA 2 Tamanho da fila 2 em 82'0
+< Fila 2 > Sistema livre em 82'
+< Fila 2 > Tamanho da fila 2 em 82'0
 -*-
-FILA 2 Sistema livre em 83'
-FILA 2 Tamanho da fila 2 em 83'0
+< Fila 2 > Sistema livre em 83'
+< Fila 2 > Tamanho da fila 2 em 83'0
 -*-
-FILA 2 Sistema livre em 84'
-FILA 2 Tamanho da fila 2 em 84'0
+< Fila 2 > Sistema livre em 84'
+< Fila 2 > Tamanho da fila 2 em 84'0
 -*-
-FILA 2 Sistema livre em 85'
-FILA 2 Tamanho da fila 2 em 85'0
+< Fila 2 > Sistema livre em 85'
+< Fila 2 > Tamanho da fila 2 em 85'0
 -*-
-FILA 2 Sistema livre em 86'
-FILA 2 Tamanho da fila 2 em 86'0
+< Fila 2 > Sistema livre em 86'
+< Fila 2 > Tamanho da fila 2 em 86'0
 -*-
-FILA 2 Sistema livre em 87'
-FILA 2 Tamanho da fila 2 em 87'0
+< Fila 2 > Sistema livre em 87'
+< Fila 2 > Tamanho da fila 2 em 87'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 88'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 88'
-FILA 1 atendimento do Sistema encerrado em 1'
-FILA 1 Sistema ocupada em 88'
-FILA 1 Tamanho da fila 1 em 88'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 88'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 88'
+< Fila 1 > atendimento do Sistema encerrado em 1'
+< Fila 1 > Sistema ocupada em 88'
+< Fila 1 > Tamanho da fila 1 em 88'6
 -*-
-FILA 2 Sistema livre em 88'
-FILA 2 Tamanho da fila 2 em 88'0
+< Fila 2 > Sistema livre em 88'
+< Fila 2 > Tamanho da fila 2 em 88'0
 -*-
-FILA 2 Sistema livre em 88'
-FILA 2 Tamanho da fila 2 em 88'0
+< Fila 2 > Sistema livre em 88'
+< Fila 2 > Tamanho da fila 2 em 88'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 89'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 89'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 89'
-FILA 1 Tamanho da fila 1 em 89'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 89'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 89'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 89'
+< Fila 1 > Tamanho da fila 1 em 89'6
 -*-
-FILA 2 Sistema livre em 89'
-FILA 2 Tamanho da fila 2 em 89'0
+< Fila 2 > Sistema livre em 89'
+< Fila 2 > Tamanho da fila 2 em 89'0
 -*-
-FILA 2 Sistema livre em 89'
-FILA 2 Tamanho da fila 2 em 89'0
+< Fila 2 > Sistema livre em 89'
+< Fila 2 > Tamanho da fila 2 em 89'0
 -*-
-FILA 2 Sistema livre em 90'
-FILA 2 Tamanho da fila 2 em 90'0
+< Fila 2 > Sistema livre em 90'
+< Fila 2 > Tamanho da fila 2 em 90'0
 -*-
-FILA 2 Sistema livre em 91'
-FILA 2 Tamanho da fila 2 em 91'0
+< Fila 2 > Sistema livre em 91'
+< Fila 2 > Tamanho da fila 2 em 91'0
 -*-
-FILA 2 Sistema livre em 92'
-FILA 2 Tamanho da fila 2 em 92'0
+< Fila 2 > Sistema livre em 92'
+< Fila 2 > Tamanho da fila 2 em 92'0
 -*-
-FILA 2 Sistema livre em 93'
-FILA 2 Tamanho da fila 2 em 93'0
+< Fila 2 > Sistema livre em 93'
+< Fila 2 > Tamanho da fila 2 em 93'0
 -*-
-FILA 2 Sistema livre em 94'
-FILA 2 Tamanho da fila 2 em 94'0
+< Fila 2 > Sistema livre em 94'
+< Fila 2 > Tamanho da fila 2 em 94'0
 -*-
-FILA 2 Sistema livre em 95'
-FILA 2 Tamanho da fila 2 em 95'0
+< Fila 2 > Sistema livre em 95'
+< Fila 2 > Tamanho da fila 2 em 95'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 96'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 96'
-FILA 1 atendimento do Sistema encerrado em 1'
-FILA 1 Sistema ocupada em 96'
-FILA 1 Tamanho da fila 1 em 96'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 96'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 96'
+< Fila 1 > atendimento do Sistema encerrado em 1'
+< Fila 1 > Sistema ocupada em 96'
+< Fila 1 > Tamanho da fila 1 em 96'6
 -*-
-FILA 2 Sistema livre em 96'
-FILA 2 Tamanho da fila 2 em 96'0
+< Fila 2 > Sistema livre em 96'
+< Fila 2 > Tamanho da fila 2 em 96'0
 -*-
-FILA 2 Sistema livre em 96'
-FILA 2 Tamanho da fila 2 em 96'0
+< Fila 2 > Sistema livre em 96'
+< Fila 2 > Tamanho da fila 2 em 96'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 97'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 97'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 97'
-FILA 1 Tamanho da fila 1 em 97'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 97'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 97'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 97'
+< Fila 1 > Tamanho da fila 1 em 97'6
 -*-
-FILA 2 Sistema livre em 97'
-FILA 2 Tamanho da fila 2 em 97'0
+< Fila 2 > Sistema livre em 97'
+< Fila 2 > Tamanho da fila 2 em 97'0
 -*-
-FILA 2 Sistema livre em 97'
-FILA 2 Tamanho da fila 2 em 97'0
+< Fila 2 > Sistema livre em 97'
+< Fila 2 > Tamanho da fila 2 em 97'0
 -*-
-FILA 2 Sistema livre em 98'
-FILA 2 Tamanho da fila 2 em 98'0
+< Fila 2 > Sistema livre em 98'
+< Fila 2 > Tamanho da fila 2 em 98'0
 -*-
-FILA 2 Sistema livre em 99'
-FILA 2 Tamanho da fila 2 em 99'0
+< Fila 2 > Sistema livre em 99'
+< Fila 2 > Tamanho da fila 2 em 99'0
 -*-
-FILA 2 Sistema livre em 100'
-FILA 2 Tamanho da fila 2 em 100'0
+< Fila 2 > Sistema livre em 100'
+< Fila 2 > Tamanho da fila 2 em 100'0
 -*-
-FILA 2 Sistema livre em 101'
-FILA 2 Tamanho da fila 2 em 101'0
+< Fila 2 > Sistema livre em 101'
+< Fila 2 > Tamanho da fila 2 em 101'0
 -*-
-FILA 2 Sistema livre em 102'
-FILA 2 Tamanho da fila 2 em 102'0
+< Fila 2 > Sistema livre em 102'
+< Fila 2 > Tamanho da fila 2 em 102'0
 -*-
-FILA 2 Sistema livre em 103'
-FILA 2 Tamanho da fila 2 em 103'0
+< Fila 2 > Sistema livre em 103'
+< Fila 2 > Tamanho da fila 2 em 103'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 104'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 104'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 104'
-FILA 1 Tamanho da fila 1 em 104'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 104'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 104'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 104'
+< Fila 1 > Tamanho da fila 1 em 104'6
 -*-
-FILA 2 Sistema livre em 104'
-FILA 2 Tamanho da fila 2 em 104'0
+< Fila 2 > Sistema livre em 104'
+< Fila 2 > Tamanho da fila 2 em 104'0
 -*-
-FILA 2 Sistema livre em 104'
-FILA 2 Tamanho da fila 2 em 104'0
+< Fila 2 > Sistema livre em 104'
+< Fila 2 > Tamanho da fila 2 em 104'0
 -*-
-FILA 2 Sistema livre em 105'
-FILA 2 Tamanho da fila 2 em 105'0
+< Fila 2 > Sistema livre em 105'
+< Fila 2 > Tamanho da fila 2 em 105'0
 -*-
-FILA 2 Sistema livre em 106'
-FILA 2 Tamanho da fila 2 em 106'0
+< Fila 2 > Sistema livre em 106'
+< Fila 2 > Tamanho da fila 2 em 106'0
 -*-
-FILA 2 Sistema livre em 107'
-FILA 2 Tamanho da fila 2 em 107'0
+< Fila 2 > Sistema livre em 107'
+< Fila 2 > Tamanho da fila 2 em 107'0
 -*-
-FILA 2 Sistema livre em 108'
-FILA 2 Tamanho da fila 2 em 108'0
+< Fila 2 > Sistema livre em 108'
+< Fila 2 > Tamanho da fila 2 em 108'0
 -*-
-FILA 2 Sistema livre em 109'
-FILA 2 Tamanho da fila 2 em 109'0
+< Fila 2 > Sistema livre em 109'
+< Fila 2 > Tamanho da fila 2 em 109'0
 -*-
-FILA 2 Sistema livre em 110'
-FILA 2 Tamanho da fila 2 em 110'0
+< Fila 2 > Sistema livre em 110'
+< Fila 2 > Tamanho da fila 2 em 110'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 111'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 111'
-FILA 1 atendimento do Sistema encerrado em 4'
-FILA 1 Sistema ocupada em 111'
-FILA 1 Tamanho da fila 1 em 111'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 111'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 111'
+< Fila 1 > atendimento do Sistema encerrado em 4'
+< Fila 1 > Sistema ocupada em 111'
+< Fila 1 > Tamanho da fila 1 em 111'6
 -*-
-FILA 2 Sistema livre em 111'
-FILA 2 Tamanho da fila 2 em 111'0
+< Fila 2 > Sistema livre em 111'
+< Fila 2 > Tamanho da fila 2 em 111'0
 -*-
-FILA 2 Sistema livre em 111'
-FILA 2 Tamanho da fila 2 em 111'0
+< Fila 2 > Sistema livre em 111'
+< Fila 2 > Tamanho da fila 2 em 111'0
 -*-
-FILA 2 Sistema livre em 112'
-FILA 2 Tamanho da fila 2 em 112'0
+< Fila 2 > Sistema livre em 112'
+< Fila 2 > Tamanho da fila 2 em 112'0
 -*-
-FILA 2 Sistema livre em 113'
-FILA 2 Tamanho da fila 2 em 113'0
+< Fila 2 > Sistema livre em 113'
+< Fila 2 > Tamanho da fila 2 em 113'0
 -*-
-FILA 2 Sistema livre em 114'
-FILA 2 Tamanho da fila 2 em 114'0
+< Fila 2 > Sistema livre em 114'
+< Fila 2 > Tamanho da fila 2 em 114'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 115'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 115'
-FILA 1 atendimento do Sistema encerrado em 6'
-FILA 1 Sistema ocupada em 115'
-FILA 1 Tamanho da fila 1 em 115'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 115'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 115'
+< Fila 1 > atendimento do Sistema encerrado em 6'
+< Fila 1 > Sistema ocupada em 115'
+< Fila 1 > Tamanho da fila 1 em 115'6
 -*-
-FILA 2 Sistema livre em 115'
-FILA 2 Tamanho da fila 2 em 115'0
+< Fila 2 > Sistema livre em 115'
+< Fila 2 > Tamanho da fila 2 em 115'0
 -*-
-FILA 2 Sistema livre em 115'
-FILA 2 Tamanho da fila 2 em 115'0
+< Fila 2 > Sistema livre em 115'
+< Fila 2 > Tamanho da fila 2 em 115'0
 -*-
-FILA 2 Sistema livre em 116'
-FILA 2 Tamanho da fila 2 em 116'0
+< Fila 2 > Sistema livre em 116'
+< Fila 2 > Tamanho da fila 2 em 116'0
 -*-
-FILA 2 Sistema livre em 117'
-FILA 2 Tamanho da fila 2 em 117'0
+< Fila 2 > Sistema livre em 117'
+< Fila 2 > Tamanho da fila 2 em 117'0
 -*-
-FILA 2 Sistema livre em 118'
-FILA 2 Tamanho da fila 2 em 118'0
+< Fila 2 > Sistema livre em 118'
+< Fila 2 > Tamanho da fila 2 em 118'0
 -*-
-FILA 2 Sistema livre em 119'
-FILA 2 Tamanho da fila 2 em 119'0
+< Fila 2 > Sistema livre em 119'
+< Fila 2 > Tamanho da fila 2 em 119'0
 -*-
-FILA 2 Sistema livre em 120'
-FILA 2 Tamanho da fila 2 em 120'0
+< Fila 2 > Sistema livre em 120'
+< Fila 2 > Tamanho da fila 2 em 120'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 121'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 121'
-FILA 1 atendimento do Sistema encerrado em 9'
-FILA 1 Sistema ocupada em 121'
-FILA 1 Tamanho da fila 1 em 121'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 121'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 121'
+< Fila 1 > atendimento do Sistema encerrado em 9'
+< Fila 1 > Sistema ocupada em 121'
+< Fila 1 > Tamanho da fila 1 em 121'6
 -*-
-FILA 2 Sistema livre em 121'
-FILA 2 Tamanho da fila 2 em 121'0
+< Fila 2 > Sistema livre em 121'
+< Fila 2 > Tamanho da fila 2 em 121'0
 -*-
-FILA 2 Sistema livre em 121'
-FILA 2 Tamanho da fila 2 em 121'0
+< Fila 2 > Sistema livre em 121'
+< Fila 2 > Tamanho da fila 2 em 121'0
 -*-
-FILA 2 Sistema livre em 122'
-FILA 2 Tamanho da fila 2 em 122'0
+< Fila 2 > Sistema livre em 122'
+< Fila 2 > Tamanho da fila 2 em 122'0
 -*-
-FILA 2 Sistema livre em 123'
-FILA 2 Tamanho da fila 2 em 123'0
+< Fila 2 > Sistema livre em 123'
+< Fila 2 > Tamanho da fila 2 em 123'0
 -*-
-FILA 2 Sistema livre em 124'
-FILA 2 Tamanho da fila 2 em 124'0
+< Fila 2 > Sistema livre em 124'
+< Fila 2 > Tamanho da fila 2 em 124'0
 -*-
-FILA 2 Sistema livre em 125'
-FILA 2 Tamanho da fila 2 em 125'0
+< Fila 2 > Sistema livre em 125'
+< Fila 2 > Tamanho da fila 2 em 125'0
 -*-
-FILA 2 Sistema livre em 126'
-FILA 2 Tamanho da fila 2 em 126'0
+< Fila 2 > Sistema livre em 126'
+< Fila 2 > Tamanho da fila 2 em 126'0
 -*-
-FILA 2 Sistema livre em 127'
-FILA 2 Tamanho da fila 2 em 127'0
+< Fila 2 > Sistema livre em 127'
+< Fila 2 > Tamanho da fila 2 em 127'0
 -*-
-FILA 2 Sistema livre em 128'
-FILA 2 Tamanho da fila 2 em 128'0
+< Fila 2 > Sistema livre em 128'
+< Fila 2 > Tamanho da fila 2 em 128'0
 -*-
-FILA 2 Sistema livre em 129'
-FILA 2 Tamanho da fila 2 em 129'0
+< Fila 2 > Sistema livre em 129'
+< Fila 2 > Tamanho da fila 2 em 129'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 130'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 130'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 130'
-FILA 1 Tamanho da fila 1 em 130'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 130'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 130'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 130'
+< Fila 1 > Tamanho da fila 1 em 130'6
 -*-
-FILA 2 Sistema livre em 130'
-FILA 2 Tamanho da fila 2 em 130'0
+< Fila 2 > Sistema livre em 130'
+< Fila 2 > Tamanho da fila 2 em 130'0
 -*-
-FILA 2 Sistema livre em 130'
-FILA 2 Tamanho da fila 2 em 130'0
+< Fila 2 > Sistema livre em 130'
+< Fila 2 > Tamanho da fila 2 em 130'0
 -*-
-FILA 2 Sistema livre em 131'
-FILA 2 Tamanho da fila 2 em 131'0
+< Fila 2 > Sistema livre em 131'
+< Fila 2 > Tamanho da fila 2 em 131'0
 -*-
-FILA 2 Sistema livre em 132'
-FILA 2 Tamanho da fila 2 em 132'0
+< Fila 2 > Sistema livre em 132'
+< Fila 2 > Tamanho da fila 2 em 132'0
 -*-
-FILA 2 Sistema livre em 133'
-FILA 2 Tamanho da fila 2 em 133'0
+< Fila 2 > Sistema livre em 133'
+< Fila 2 > Tamanho da fila 2 em 133'0
 -*-
-FILA 2 Sistema livre em 134'
-FILA 2 Tamanho da fila 2 em 134'0
+< Fila 2 > Sistema livre em 134'
+< Fila 2 > Tamanho da fila 2 em 134'0
 -*-
-FILA 2 Sistema livre em 135'
-FILA 2 Tamanho da fila 2 em 135'0
+< Fila 2 > Sistema livre em 135'
+< Fila 2 > Tamanho da fila 2 em 135'0
 -*-
-FILA 2 Sistema livre em 136'
-FILA 2 Tamanho da fila 2 em 136'0
+< Fila 2 > Sistema livre em 136'
+< Fila 2 > Tamanho da fila 2 em 136'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 137'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 137'
-FILA 1 atendimento do Sistema encerrado em 4'
-FILA 1 Sistema ocupada em 137'
-FILA 1 Tamanho da fila 1 em 137'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 137'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 137'
+< Fila 1 > atendimento do Sistema encerrado em 4'
+< Fila 1 > Sistema ocupada em 137'
+< Fila 1 > Tamanho da fila 1 em 137'6
 -*-
-FILA 2 Sistema livre em 137'
-FILA 2 Tamanho da fila 2 em 137'0
+< Fila 2 > Sistema livre em 137'
+< Fila 2 > Tamanho da fila 2 em 137'0
 -*-
-FILA 2 Sistema livre em 137'
-FILA 2 Tamanho da fila 2 em 137'0
+< Fila 2 > Sistema livre em 137'
+< Fila 2 > Tamanho da fila 2 em 137'0
 -*-
-FILA 2 Sistema livre em 138'
-FILA 2 Tamanho da fila 2 em 138'0
+< Fila 2 > Sistema livre em 138'
+< Fila 2 > Tamanho da fila 2 em 138'0
 -*-
-FILA 2 Sistema livre em 139'
-FILA 2 Tamanho da fila 2 em 139'0
+< Fila 2 > Sistema livre em 139'
+< Fila 2 > Tamanho da fila 2 em 139'0
 -*-
-FILA 2 Sistema livre em 140'
-FILA 2 Tamanho da fila 2 em 140'0
+< Fila 2 > Sistema livre em 140'
+< Fila 2 > Tamanho da fila 2 em 140'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 141'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 141'
-FILA 1 atendimento do Sistema encerrado em 6'
-FILA 1 Sistema ocupada em 141'
-FILA 1 Tamanho da fila 1 em 141'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 141'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 141'
+< Fila 1 > atendimento do Sistema encerrado em 6'
+< Fila 1 > Sistema ocupada em 141'
+< Fila 1 > Tamanho da fila 1 em 141'6
 -*-
-FILA 2 Sistema livre em 141'
-FILA 2 Tamanho da fila 2 em 141'0
+< Fila 2 > Sistema livre em 141'
+< Fila 2 > Tamanho da fila 2 em 141'0
 -*-
-FILA 2 Sistema livre em 141'
-FILA 2 Tamanho da fila 2 em 141'0
+< Fila 2 > Sistema livre em 141'
+< Fila 2 > Tamanho da fila 2 em 141'0
 -*-
-FILA 2 Sistema livre em 142'
-FILA 2 Tamanho da fila 2 em 142'0
+< Fila 2 > Sistema livre em 142'
+< Fila 2 > Tamanho da fila 2 em 142'0
 -*-
-FILA 2 Sistema livre em 143'
-FILA 2 Tamanho da fila 2 em 143'0
+< Fila 2 > Sistema livre em 143'
+< Fila 2 > Tamanho da fila 2 em 143'0
 -*-
-FILA 2 Sistema livre em 144'
-FILA 2 Tamanho da fila 2 em 144'0
+< Fila 2 > Sistema livre em 144'
+< Fila 2 > Tamanho da fila 2 em 144'0
 -*-
-FILA 2 Sistema livre em 145'
-FILA 2 Tamanho da fila 2 em 145'0
+< Fila 2 > Sistema livre em 145'
+< Fila 2 > Tamanho da fila 2 em 145'0
 -*-
-FILA 2 Sistema livre em 146'
-FILA 2 Tamanho da fila 2 em 146'0
+< Fila 2 > Sistema livre em 146'
+< Fila 2 > Tamanho da fila 2 em 146'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 147'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 147'
-FILA 1 atendimento do Sistema encerrado em 9'
-FILA 1 Sistema ocupada em 147'
-FILA 1 Tamanho da fila 1 em 147'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 147'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 147'
+< Fila 1 > atendimento do Sistema encerrado em 9'
+< Fila 1 > Sistema ocupada em 147'
+< Fila 1 > Tamanho da fila 1 em 147'6
 -*-
-FILA 2 Sistema livre em 147'
-FILA 2 Tamanho da fila 2 em 147'0
+< Fila 2 > Sistema livre em 147'
+< Fila 2 > Tamanho da fila 2 em 147'0
 -*-
-FILA 2 Sistema livre em 147'
-FILA 2 Tamanho da fila 2 em 147'0
+< Fila 2 > Sistema livre em 147'
+< Fila 2 > Tamanho da fila 2 em 147'0
 -*-
-FILA 2 Sistema livre em 148'
-FILA 2 Tamanho da fila 2 em 148'0
+< Fila 2 > Sistema livre em 148'
+< Fila 2 > Tamanho da fila 2 em 148'0
 -*-
-FILA 2 Sistema livre em 149'
-FILA 2 Tamanho da fila 2 em 149'0
+< Fila 2 > Sistema livre em 149'
+< Fila 2 > Tamanho da fila 2 em 149'0
 -*-
-FILA 2 Sistema livre em 150'
-FILA 2 Tamanho da fila 2 em 150'0
+< Fila 2 > Sistema livre em 150'
+< Fila 2 > Tamanho da fila 2 em 150'0
 -*-
-FILA 2 Sistema livre em 151'
-FILA 2 Tamanho da fila 2 em 151'0
+< Fila 2 > Sistema livre em 151'
+< Fila 2 > Tamanho da fila 2 em 151'0
 -*-
-FILA 2 Sistema livre em 152'
-FILA 2 Tamanho da fila 2 em 152'0
+< Fila 2 > Sistema livre em 152'
+< Fila 2 > Tamanho da fila 2 em 152'0
 -*-
-FILA 2 Sistema livre em 153'
-FILA 2 Tamanho da fila 2 em 153'0
+< Fila 2 > Sistema livre em 153'
+< Fila 2 > Tamanho da fila 2 em 153'0
 -*-
-FILA 2 Sistema livre em 154'
-FILA 2 Tamanho da fila 2 em 154'0
+< Fila 2 > Sistema livre em 154'
+< Fila 2 > Tamanho da fila 2 em 154'0
 -*-
-FILA 2 Sistema livre em 155'
-FILA 2 Tamanho da fila 2 em 155'0
+< Fila 2 > Sistema livre em 155'
+< Fila 2 > Tamanho da fila 2 em 155'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 156'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 156'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 156'
-FILA 1 Tamanho da fila 1 em 156'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 156'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 156'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 156'
+< Fila 1 > Tamanho da fila 1 em 156'6
 -*-
-FILA 2 Sistema livre em 156'
-FILA 2 Tamanho da fila 2 em 156'0
+< Fila 2 > Sistema livre em 156'
+< Fila 2 > Tamanho da fila 2 em 156'0
 -*-
-FILA 2 Sistema livre em 156'
-FILA 2 Tamanho da fila 2 em 156'0
+< Fila 2 > Sistema livre em 156'
+< Fila 2 > Tamanho da fila 2 em 156'0
 -*-
-FILA 2 Sistema livre em 157'
-FILA 2 Tamanho da fila 2 em 157'0
+< Fila 2 > Sistema livre em 157'
+< Fila 2 > Tamanho da fila 2 em 157'0
 -*-
-FILA 2 Sistema livre em 158'
-FILA 2 Tamanho da fila 2 em 158'0
+< Fila 2 > Sistema livre em 158'
+< Fila 2 > Tamanho da fila 2 em 158'0
 -*-
-FILA 2 Sistema livre em 159'
-FILA 2 Tamanho da fila 2 em 159'0
+< Fila 2 > Sistema livre em 159'
+< Fila 2 > Tamanho da fila 2 em 159'0
 -*-
-FILA 2 Sistema livre em 160'
-FILA 2 Tamanho da fila 2 em 160'0
+< Fila 2 > Sistema livre em 160'
+< Fila 2 > Tamanho da fila 2 em 160'0
 -*-
-FILA 2 Sistema livre em 161'
-FILA 2 Tamanho da fila 2 em 161'0
+< Fila 2 > Sistema livre em 161'
+< Fila 2 > Tamanho da fila 2 em 161'0
 -*-
-FILA 2 Sistema livre em 162'
-FILA 2 Tamanho da fila 2 em 162'0
+< Fila 2 > Sistema livre em 162'
+< Fila 2 > Tamanho da fila 2 em 162'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 163'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 163'
-FILA 1 atendimento do Sistema encerrado em 4'
-FILA 1 Sistema ocupada em 163'
-FILA 1 Tamanho da fila 1 em 163'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 163'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 163'
+< Fila 1 > atendimento do Sistema encerrado em 4'
+< Fila 1 > Sistema ocupada em 163'
+< Fila 1 > Tamanho da fila 1 em 163'6
 -*-
-FILA 2 Sistema livre em 163'
-FILA 2 Tamanho da fila 2 em 163'0
+< Fila 2 > Sistema livre em 163'
+< Fila 2 > Tamanho da fila 2 em 163'0
 -*-
-FILA 2 Sistema livre em 163'
-FILA 2 Tamanho da fila 2 em 163'0
+< Fila 2 > Sistema livre em 163'
+< Fila 2 > Tamanho da fila 2 em 163'0
 -*-
-FILA 2 Sistema livre em 164'
-FILA 2 Tamanho da fila 2 em 164'0
+< Fila 2 > Sistema livre em 164'
+< Fila 2 > Tamanho da fila 2 em 164'0
 -*-
-FILA 2 Sistema livre em 165'
-FILA 2 Tamanho da fila 2 em 165'0
+< Fila 2 > Sistema livre em 165'
+< Fila 2 > Tamanho da fila 2 em 165'0
 -*-
-FILA 2 Sistema livre em 166'
-FILA 2 Tamanho da fila 2 em 166'0
+< Fila 2 > Sistema livre em 166'
+< Fila 2 > Tamanho da fila 2 em 166'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 167'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 167'
-FILA 1 atendimento do Sistema encerrado em 6'
-FILA 1 Sistema ocupada em 167'
-FILA 1 Tamanho da fila 1 em 167'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 167'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 167'
+< Fila 1 > atendimento do Sistema encerrado em 6'
+< Fila 1 > Sistema ocupada em 167'
+< Fila 1 > Tamanho da fila 1 em 167'6
 -*-
-FILA 2 Sistema livre em 167'
-FILA 2 Tamanho da fila 2 em 167'0
+< Fila 2 > Sistema livre em 167'
+< Fila 2 > Tamanho da fila 2 em 167'0
 -*-
-FILA 2 Sistema livre em 167'
-FILA 2 Tamanho da fila 2 em 167'0
+< Fila 2 > Sistema livre em 167'
+< Fila 2 > Tamanho da fila 2 em 167'0
 -*-
-FILA 2 Sistema livre em 168'
-FILA 2 Tamanho da fila 2 em 168'0
+< Fila 2 > Sistema livre em 168'
+< Fila 2 > Tamanho da fila 2 em 168'0
 -*-
-FILA 2 Sistema livre em 169'
-FILA 2 Tamanho da fila 2 em 169'0
+< Fila 2 > Sistema livre em 169'
+< Fila 2 > Tamanho da fila 2 em 169'0
 -*-
-FILA 2 Sistema livre em 170'
-FILA 2 Tamanho da fila 2 em 170'0
+< Fila 2 > Sistema livre em 170'
+< Fila 2 > Tamanho da fila 2 em 170'0
 -*-
-FILA 2 Sistema livre em 171'
-FILA 2 Tamanho da fila 2 em 171'0
+< Fila 2 > Sistema livre em 171'
+< Fila 2 > Tamanho da fila 2 em 171'0
 -*-
-FILA 2 Sistema livre em 172'
-FILA 2 Tamanho da fila 2 em 172'0
+< Fila 2 > Sistema livre em 172'
+< Fila 2 > Tamanho da fila 2 em 172'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 173'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 173'
-FILA 1 atendimento do Sistema encerrado em 9'
-FILA 1 Sistema ocupada em 173'
-FILA 1 Tamanho da fila 1 em 173'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 173'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 173'
+< Fila 1 > atendimento do Sistema encerrado em 9'
+< Fila 1 > Sistema ocupada em 173'
+< Fila 1 > Tamanho da fila 1 em 173'6
 -*-
-FILA 2 Sistema livre em 173'
-FILA 2 Tamanho da fila 2 em 173'0
+< Fila 2 > Sistema livre em 173'
+< Fila 2 > Tamanho da fila 2 em 173'0
 -*-
-FILA 2 Sistema livre em 173'
-FILA 2 Tamanho da fila 2 em 173'0
+< Fila 2 > Sistema livre em 173'
+< Fila 2 > Tamanho da fila 2 em 173'0
 -*-
-FILA 2 Sistema livre em 174'
-FILA 2 Tamanho da fila 2 em 174'0
+< Fila 2 > Sistema livre em 174'
+< Fila 2 > Tamanho da fila 2 em 174'0
 -*-
-FILA 2 Sistema livre em 175'
-FILA 2 Tamanho da fila 2 em 175'0
+< Fila 2 > Sistema livre em 175'
+< Fila 2 > Tamanho da fila 2 em 175'0
 -*-
-FILA 2 Sistema livre em 176'
-FILA 2 Tamanho da fila 2 em 176'0
+< Fila 2 > Sistema livre em 176'
+< Fila 2 > Tamanho da fila 2 em 176'0
 -*-
-FILA 2 Sistema livre em 177'
-FILA 2 Tamanho da fila 2 em 177'0
+< Fila 2 > Sistema livre em 177'
+< Fila 2 > Tamanho da fila 2 em 177'0
 -*-
-FILA 2 Sistema livre em 178'
-FILA 2 Tamanho da fila 2 em 178'0
+< Fila 2 > Sistema livre em 178'
+< Fila 2 > Tamanho da fila 2 em 178'0
 -*-
-FILA 2 Sistema livre em 179'
-FILA 2 Tamanho da fila 2 em 179'0
+< Fila 2 > Sistema livre em 179'
+< Fila 2 > Tamanho da fila 2 em 179'0
 -*-
-FILA 2 Sistema livre em 180'
-FILA 2 Tamanho da fila 2 em 180'0
+< Fila 2 > Sistema livre em 180'
+< Fila 2 > Tamanho da fila 2 em 180'0
 -*-
-FILA 2 Sistema livre em 181'
-FILA 2 Tamanho da fila 2 em 181'0
+< Fila 2 > Sistema livre em 181'
+< Fila 2 > Tamanho da fila 2 em 181'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 182'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 182'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 182'
-FILA 1 Tamanho da fila 1 em 182'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 182'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 182'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 182'
+< Fila 1 > Tamanho da fila 1 em 182'6
 -*-
-FILA 2 Sistema livre em 182'
-FILA 2 Tamanho da fila 2 em 182'0
+< Fila 2 > Sistema livre em 182'
+< Fila 2 > Tamanho da fila 2 em 182'0
 -*-
-FILA 2 Sistema livre em 182'
-FILA 2 Tamanho da fila 2 em 182'0
+< Fila 2 > Sistema livre em 182'
+< Fila 2 > Tamanho da fila 2 em 182'0
 -*-
-FILA 2 Sistema livre em 183'
-FILA 2 Tamanho da fila 2 em 183'0
+< Fila 2 > Sistema livre em 183'
+< Fila 2 > Tamanho da fila 2 em 183'0
 -*-
-FILA 2 Sistema livre em 184'
-FILA 2 Tamanho da fila 2 em 184'0
+< Fila 2 > Sistema livre em 184'
+< Fila 2 > Tamanho da fila 2 em 184'0
 -*-
-FILA 2 Sistema livre em 185'
-FILA 2 Tamanho da fila 2 em 185'0
+< Fila 2 > Sistema livre em 185'
+< Fila 2 > Tamanho da fila 2 em 185'0
 -*-
-FILA 2 Sistema livre em 186'
-FILA 2 Tamanho da fila 2 em 186'0
+< Fila 2 > Sistema livre em 186'
+< Fila 2 > Tamanho da fila 2 em 186'0
 -*-
-FILA 2 Sistema livre em 187'
-FILA 2 Tamanho da fila 2 em 187'0
+< Fila 2 > Sistema livre em 187'
+< Fila 2 > Tamanho da fila 2 em 187'0
 -*-
-FILA 2 Sistema livre em 188'
-FILA 2 Tamanho da fila 2 em 188'0
+< Fila 2 > Sistema livre em 188'
+< Fila 2 > Tamanho da fila 2 em 188'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 189'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 189'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 189'
-FILA 1 Tamanho da fila 1 em 189'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 189'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 189'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 189'
+< Fila 1 > Tamanho da fila 1 em 189'6
 -*-
-FILA 2 Sistema livre em 189'
-FILA 2 Tamanho da fila 2 em 189'0
+< Fila 2 > Sistema livre em 189'
+< Fila 2 > Tamanho da fila 2 em 189'0
 -*-
-FILA 2 Sistema livre em 189'
-FILA 2 Tamanho da fila 2 em 189'0
+< Fila 2 > Sistema livre em 189'
+< Fila 2 > Tamanho da fila 2 em 189'0
 -*-
-FILA 2 Sistema livre em 190'
-FILA 2 Tamanho da fila 2 em 190'0
+< Fila 2 > Sistema livre em 190'
+< Fila 2 > Tamanho da fila 2 em 190'0
 -*-
-FILA 2 Sistema livre em 191'
-FILA 2 Tamanho da fila 2 em 191'0
+< Fila 2 > Sistema livre em 191'
+< Fila 2 > Tamanho da fila 2 em 191'0
 -*-
-FILA 2 Sistema livre em 192'
-FILA 2 Tamanho da fila 2 em 192'0
+< Fila 2 > Sistema livre em 192'
+< Fila 2 > Tamanho da fila 2 em 192'0
 -*-
-FILA 2 Sistema livre em 193'
-FILA 2 Tamanho da fila 2 em 193'0
+< Fila 2 > Sistema livre em 193'
+< Fila 2 > Tamanho da fila 2 em 193'0
 -*-
-FILA 2 Sistema livre em 194'
-FILA 2 Tamanho da fila 2 em 194'0
+< Fila 2 > Sistema livre em 194'
+< Fila 2 > Tamanho da fila 2 em 194'0
 -*-
-FILA 2 Sistema livre em 195'
-FILA 2 Tamanho da fila 2 em 195'0
+< Fila 2 > Sistema livre em 195'
+< Fila 2 > Tamanho da fila 2 em 195'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 196'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 196'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 196'
-FILA 1 Tamanho da fila 1 em 196'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 196'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 196'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 196'
+< Fila 1 > Tamanho da fila 1 em 196'6
 -*-
-FILA 2 Sistema livre em 196'
-FILA 2 Tamanho da fila 2 em 196'0
+< Fila 2 > Sistema livre em 196'
+< Fila 2 > Tamanho da fila 2 em 196'0
 -*-
-FILA 2 Sistema livre em 196'
-FILA 2 Tamanho da fila 2 em 196'0
+< Fila 2 > Sistema livre em 196'
+< Fila 2 > Tamanho da fila 2 em 196'0
 -*-
-FILA 2 Sistema livre em 197'
-FILA 2 Tamanho da fila 2 em 197'0
+< Fila 2 > Sistema livre em 197'
+< Fila 2 > Tamanho da fila 2 em 197'0
 -*-
-FILA 2 Sistema livre em 198'
-FILA 2 Tamanho da fila 2 em 198'0
+< Fila 2 > Sistema livre em 198'
+< Fila 2 > Tamanho da fila 2 em 198'0
 -*-
-FILA 2 Sistema livre em 199'
-FILA 2 Tamanho da fila 2 em 199'0
+< Fila 2 > Sistema livre em 199'
+< Fila 2 > Tamanho da fila 2 em 199'0
 -*-
-FILA 2 Sistema livre em 200'
-FILA 2 Tamanho da fila 2 em 200'0
+< Fila 2 > Sistema livre em 200'
+< Fila 2 > Tamanho da fila 2 em 200'0
 -*-
-FILA 2 Sistema livre em 201'
-FILA 2 Tamanho da fila 2 em 201'0
+< Fila 2 > Sistema livre em 201'
+< Fila 2 > Tamanho da fila 2 em 201'0
 -*-
-FILA 2 Sistema livre em 202'
-FILA 2 Tamanho da fila 2 em 202'0
+< Fila 2 > Sistema livre em 202'
+< Fila 2 > Tamanho da fila 2 em 202'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 203'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 203'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 203'
-FILA 1 Tamanho da fila 1 em 203'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 203'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 203'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 203'
+< Fila 1 > Tamanho da fila 1 em 203'6
 -*-
-FILA 2 Sistema livre em 203'
-FILA 2 Tamanho da fila 2 em 203'0
+< Fila 2 > Sistema livre em 203'
+< Fila 2 > Tamanho da fila 2 em 203'0
 -*-
-FILA 2 Sistema livre em 203'
-FILA 2 Tamanho da fila 2 em 203'0
+< Fila 2 > Sistema livre em 203'
+< Fila 2 > Tamanho da fila 2 em 203'0
 -*-
-FILA 2 Sistema livre em 204'
-FILA 2 Tamanho da fila 2 em 204'0
+< Fila 2 > Sistema livre em 204'
+< Fila 2 > Tamanho da fila 2 em 204'0
 -*-
-FILA 2 Sistema livre em 205'
-FILA 2 Tamanho da fila 2 em 205'0
+< Fila 2 > Sistema livre em 205'
+< Fila 2 > Tamanho da fila 2 em 205'0
 -*-
-FILA 2 Sistema livre em 206'
-FILA 2 Tamanho da fila 2 em 206'0
+< Fila 2 > Sistema livre em 206'
+< Fila 2 > Tamanho da fila 2 em 206'0
 -*-
-FILA 2 Sistema livre em 207'
-FILA 2 Tamanho da fila 2 em 207'0
+< Fila 2 > Sistema livre em 207'
+< Fila 2 > Tamanho da fila 2 em 207'0
 -*-
-FILA 2 Sistema livre em 208'
-FILA 2 Tamanho da fila 2 em 208'0
+< Fila 2 > Sistema livre em 208'
+< Fila 2 > Tamanho da fila 2 em 208'0
 -*-
-FILA 2 Sistema livre em 209'
-FILA 2 Tamanho da fila 2 em 209'0
+< Fila 2 > Sistema livre em 209'
+< Fila 2 > Tamanho da fila 2 em 209'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 210'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 210'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 210'
-FILA 1 Tamanho da fila 1 em 210'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 210'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 210'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 210'
+< Fila 1 > Tamanho da fila 1 em 210'6
 -*-
-FILA 2 Sistema livre em 210'
-FILA 2 Tamanho da fila 2 em 210'0
+< Fila 2 > Sistema livre em 210'
+< Fila 2 > Tamanho da fila 2 em 210'0
 -*-
-FILA 2 Sistema livre em 210'
-FILA 2 Tamanho da fila 2 em 210'0
+< Fila 2 > Sistema livre em 210'
+< Fila 2 > Tamanho da fila 2 em 210'0
 -*-
-FILA 2 Sistema livre em 211'
-FILA 2 Tamanho da fila 2 em 211'0
+< Fila 2 > Sistema livre em 211'
+< Fila 2 > Tamanho da fila 2 em 211'0
 -*-
-FILA 2 Sistema livre em 212'
-FILA 2 Tamanho da fila 2 em 212'0
+< Fila 2 > Sistema livre em 212'
+< Fila 2 > Tamanho da fila 2 em 212'0
 -*-
-FILA 2 Sistema livre em 213'
-FILA 2 Tamanho da fila 2 em 213'0
+< Fila 2 > Sistema livre em 213'
+< Fila 2 > Tamanho da fila 2 em 213'0
 -*-
-FILA 2 Sistema livre em 214'
-FILA 2 Tamanho da fila 2 em 214'0
+< Fila 2 > Sistema livre em 214'
+< Fila 2 > Tamanho da fila 2 em 214'0
 -*-
-FILA 2 Sistema livre em 215'
-FILA 2 Tamanho da fila 2 em 215'0
+< Fila 2 > Sistema livre em 215'
+< Fila 2 > Tamanho da fila 2 em 215'0
 -*-
-FILA 2 Sistema livre em 216'
-FILA 2 Tamanho da fila 2 em 216'0
+< Fila 2 > Sistema livre em 216'
+< Fila 2 > Tamanho da fila 2 em 216'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 217'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 217'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 217'
-FILA 1 Tamanho da fila 1 em 217'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 217'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 217'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 217'
+< Fila 1 > Tamanho da fila 1 em 217'6
 -*-
-FILA 2 Sistema livre em 217'
-FILA 2 Tamanho da fila 2 em 217'0
+< Fila 2 > Sistema livre em 217'
+< Fila 2 > Tamanho da fila 2 em 217'0
 -*-
-FILA 2 Sistema livre em 217'
-FILA 2 Tamanho da fila 2 em 217'0
+< Fila 2 > Sistema livre em 217'
+< Fila 2 > Tamanho da fila 2 em 217'0
 -*-
-FILA 2 Sistema livre em 218'
-FILA 2 Tamanho da fila 2 em 218'0
+< Fila 2 > Sistema livre em 218'
+< Fila 2 > Tamanho da fila 2 em 218'0
 -*-
-FILA 2 Sistema livre em 219'
-FILA 2 Tamanho da fila 2 em 219'0
+< Fila 2 > Sistema livre em 219'
+< Fila 2 > Tamanho da fila 2 em 219'0
 -*-
-FILA 2 Sistema livre em 220'
-FILA 2 Tamanho da fila 2 em 220'0
+< Fila 2 > Sistema livre em 220'
+< Fila 2 > Tamanho da fila 2 em 220'0
 -*-
-FILA 2 Sistema livre em 221'
-FILA 2 Tamanho da fila 2 em 221'0
+< Fila 2 > Sistema livre em 221'
+< Fila 2 > Tamanho da fila 2 em 221'0
 -*-
-FILA 2 Sistema livre em 222'
-FILA 2 Tamanho da fila 2 em 222'0
+< Fila 2 > Sistema livre em 222'
+< Fila 2 > Tamanho da fila 2 em 222'0
 -*-
-FILA 2 Sistema livre em 223'
-FILA 2 Tamanho da fila 2 em 223'0
+< Fila 2 > Sistema livre em 223'
+< Fila 2 > Tamanho da fila 2 em 223'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 224'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 224'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 224'
-FILA 1 Tamanho da fila 1 em 224'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 224'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 224'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 224'
+< Fila 1 > Tamanho da fila 1 em 224'6
 -*-
-FILA 2 Sistema livre em 224'
-FILA 2 Tamanho da fila 2 em 224'0
+< Fila 2 > Sistema livre em 224'
+< Fila 2 > Tamanho da fila 2 em 224'0
 -*-
-FILA 2 Sistema livre em 224'
-FILA 2 Tamanho da fila 2 em 224'0
+< Fila 2 > Sistema livre em 224'
+< Fila 2 > Tamanho da fila 2 em 224'0
 -*-
-FILA 2 Sistema livre em 225'
-FILA 2 Tamanho da fila 2 em 225'0
+< Fila 2 > Sistema livre em 225'
+< Fila 2 > Tamanho da fila 2 em 225'0
 -*-
-FILA 2 Sistema livre em 226'
-FILA 2 Tamanho da fila 2 em 226'0
+< Fila 2 > Sistema livre em 226'
+< Fila 2 > Tamanho da fila 2 em 226'0
 -*-
-FILA 2 Sistema livre em 227'
-FILA 2 Tamanho da fila 2 em 227'0
+< Fila 2 > Sistema livre em 227'
+< Fila 2 > Tamanho da fila 2 em 227'0
 -*-
-FILA 2 Sistema livre em 228'
-FILA 2 Tamanho da fila 2 em 228'0
+< Fila 2 > Sistema livre em 228'
+< Fila 2 > Tamanho da fila 2 em 228'0
 -*-
-FILA 2 Sistema livre em 229'
-FILA 2 Tamanho da fila 2 em 229'0
+< Fila 2 > Sistema livre em 229'
+< Fila 2 > Tamanho da fila 2 em 229'0
 -*-
-FILA 2 Sistema livre em 230'
-FILA 2 Tamanho da fila 2 em 230'0
+< Fila 2 > Sistema livre em 230'
+< Fila 2 > Tamanho da fila 2 em 230'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 231'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 231'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 231'
-FILA 1 Tamanho da fila 1 em 231'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 231'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 231'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 231'
+< Fila 1 > Tamanho da fila 1 em 231'6
 -*-
-FILA 2 Sistema livre em 231'
-FILA 2 Tamanho da fila 2 em 231'0
+< Fila 2 > Sistema livre em 231'
+< Fila 2 > Tamanho da fila 2 em 231'0
 -*-
-FILA 2 Sistema livre em 231'
-FILA 2 Tamanho da fila 2 em 231'0
+< Fila 2 > Sistema livre em 231'
+< Fila 2 > Tamanho da fila 2 em 231'0
 -*-
-FILA 2 Sistema livre em 232'
-FILA 2 Tamanho da fila 2 em 232'0
+< Fila 2 > Sistema livre em 232'
+< Fila 2 > Tamanho da fila 2 em 232'0
 -*-
-FILA 2 Sistema livre em 233'
-FILA 2 Tamanho da fila 2 em 233'0
+< Fila 2 > Sistema livre em 233'
+< Fila 2 > Tamanho da fila 2 em 233'0
 -*-
-FILA 2 Sistema livre em 234'
-FILA 2 Tamanho da fila 2 em 234'0
+< Fila 2 > Sistema livre em 234'
+< Fila 2 > Tamanho da fila 2 em 234'0
 -*-
-FILA 2 Sistema livre em 235'
-FILA 2 Tamanho da fila 2 em 235'0
+< Fila 2 > Sistema livre em 235'
+< Fila 2 > Tamanho da fila 2 em 235'0
 -*-
-FILA 2 Sistema livre em 236'
-FILA 2 Tamanho da fila 2 em 236'0
+< Fila 2 > Sistema livre em 236'
+< Fila 2 > Tamanho da fila 2 em 236'0
 -*-
-FILA 2 Sistema livre em 237'
-FILA 2 Tamanho da fila 2 em 237'0
+< Fila 2 > Sistema livre em 237'
+< Fila 2 > Tamanho da fila 2 em 237'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 238'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 238'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 238'
-FILA 1 Tamanho da fila 1 em 238'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 238'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 238'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 238'
+< Fila 1 > Tamanho da fila 1 em 238'6
 -*-
-FILA 2 Sistema livre em 238'
-FILA 2 Tamanho da fila 2 em 238'0
+< Fila 2 > Sistema livre em 238'
+< Fila 2 > Tamanho da fila 2 em 238'0
 -*-
-FILA 2 Sistema livre em 238'
-FILA 2 Tamanho da fila 2 em 238'0
+< Fila 2 > Sistema livre em 238'
+< Fila 2 > Tamanho da fila 2 em 238'0
 -*-
-FILA 2 Sistema livre em 239'
-FILA 2 Tamanho da fila 2 em 239'0
+< Fila 2 > Sistema livre em 239'
+< Fila 2 > Tamanho da fila 2 em 239'0
 -*-
-FILA 2 Sistema livre em 240'
-FILA 2 Tamanho da fila 2 em 240'0
+< Fila 2 > Sistema livre em 240'
+< Fila 2 > Tamanho da fila 2 em 240'0
 -*-
-FILA 2 Sistema livre em 241'
-FILA 2 Tamanho da fila 2 em 241'0
+< Fila 2 > Sistema livre em 241'
+< Fila 2 > Tamanho da fila 2 em 241'0
 -*-
-FILA 2 Sistema livre em 242'
-FILA 2 Tamanho da fila 2 em 242'0
+< Fila 2 > Sistema livre em 242'
+< Fila 2 > Tamanho da fila 2 em 242'0
 -*-
-FILA 2 Sistema livre em 243'
-FILA 2 Tamanho da fila 2 em 243'0
+< Fila 2 > Sistema livre em 243'
+< Fila 2 > Tamanho da fila 2 em 243'0
 -*-
-FILA 2 Sistema livre em 244'
-FILA 2 Tamanho da fila 2 em 244'0
+< Fila 2 > Sistema livre em 244'
+< Fila 2 > Tamanho da fila 2 em 244'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 245'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 245'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 245'
-FILA 1 Tamanho da fila 1 em 245'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 245'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 245'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 245'
+< Fila 1 > Tamanho da fila 1 em 245'6
 -*-
-FILA 2 Sistema livre em 245'
-FILA 2 Tamanho da fila 2 em 245'0
+< Fila 2 > Sistema livre em 245'
+< Fila 2 > Tamanho da fila 2 em 245'0
 -*-
-FILA 2 Sistema livre em 245'
-FILA 2 Tamanho da fila 2 em 245'0
+< Fila 2 > Sistema livre em 245'
+< Fila 2 > Tamanho da fila 2 em 245'0
 -*-
-FILA 2 Sistema livre em 246'
-FILA 2 Tamanho da fila 2 em 246'0
+< Fila 2 > Sistema livre em 246'
+< Fila 2 > Tamanho da fila 2 em 246'0
 -*-
-FILA 2 Sistema livre em 247'
-FILA 2 Tamanho da fila 2 em 247'0
+< Fila 2 > Sistema livre em 247'
+< Fila 2 > Tamanho da fila 2 em 247'0
 -*-
-FILA 2 Sistema livre em 248'
-FILA 2 Tamanho da fila 2 em 248'0
+< Fila 2 > Sistema livre em 248'
+< Fila 2 > Tamanho da fila 2 em 248'0
 -*-
-FILA 2 Sistema livre em 249'
-FILA 2 Tamanho da fila 2 em 249'0
+< Fila 2 > Sistema livre em 249'
+< Fila 2 > Tamanho da fila 2 em 249'0
 -*-
-FILA 2 Sistema livre em 250'
-FILA 2 Tamanho da fila 2 em 250'0
+< Fila 2 > Sistema livre em 250'
+< Fila 2 > Tamanho da fila 2 em 250'0
 -*-
-FILA 2 Sistema livre em 251'
-FILA 2 Tamanho da fila 2 em 251'0
+< Fila 2 > Sistema livre em 251'
+< Fila 2 > Tamanho da fila 2 em 251'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 252'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 252'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 252'
-FILA 1 Tamanho da fila 1 em 252'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 252'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 252'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 252'
+< Fila 1 > Tamanho da fila 1 em 252'6
 -*-
-FILA 2 Sistema livre em 252'
-FILA 2 Tamanho da fila 2 em 252'0
+< Fila 2 > Sistema livre em 252'
+< Fila 2 > Tamanho da fila 2 em 252'0
 -*-
-FILA 2 Sistema livre em 252'
-FILA 2 Tamanho da fila 2 em 252'0
+< Fila 2 > Sistema livre em 252'
+< Fila 2 > Tamanho da fila 2 em 252'0
 -*-
-FILA 2 Sistema livre em 253'
-FILA 2 Tamanho da fila 2 em 253'0
+< Fila 2 > Sistema livre em 253'
+< Fila 2 > Tamanho da fila 2 em 253'0
 -*-
-FILA 2 Sistema livre em 254'
-FILA 2 Tamanho da fila 2 em 254'0
+< Fila 2 > Sistema livre em 254'
+< Fila 2 > Tamanho da fila 2 em 254'0
 -*-
-FILA 2 Sistema livre em 255'
-FILA 2 Tamanho da fila 2 em 255'0
+< Fila 2 > Sistema livre em 255'
+< Fila 2 > Tamanho da fila 2 em 255'0
 -*-
-FILA 2 Sistema livre em 256'
-FILA 2 Tamanho da fila 2 em 256'0
+< Fila 2 > Sistema livre em 256'
+< Fila 2 > Tamanho da fila 2 em 256'0
 -*-
-FILA 2 Sistema livre em 257'
-FILA 2 Tamanho da fila 2 em 257'0
+< Fila 2 > Sistema livre em 257'
+< Fila 2 > Tamanho da fila 2 em 257'0
 -*-
-FILA 2 Sistema livre em 258'
-FILA 2 Tamanho da fila 2 em 258'0
+< Fila 2 > Sistema livre em 258'
+< Fila 2 > Tamanho da fila 2 em 258'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 259'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 259'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 259'
-FILA 1 Tamanho da fila 1 em 259'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 259'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 259'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 259'
+< Fila 1 > Tamanho da fila 1 em 259'6
 -*-
-FILA 2 Sistema livre em 259'
-FILA 2 Tamanho da fila 2 em 259'0
+< Fila 2 > Sistema livre em 259'
+< Fila 2 > Tamanho da fila 2 em 259'0
 -*-
-FILA 2 Sistema livre em 259'
-FILA 2 Tamanho da fila 2 em 259'0
+< Fila 2 > Sistema livre em 259'
+< Fila 2 > Tamanho da fila 2 em 259'0
 -*-
-FILA 2 Sistema livre em 260'
-FILA 2 Tamanho da fila 2 em 260'0
+< Fila 2 > Sistema livre em 260'
+< Fila 2 > Tamanho da fila 2 em 260'0
 -*-
-FILA 2 Sistema livre em 261'
-FILA 2 Tamanho da fila 2 em 261'0
+< Fila 2 > Sistema livre em 261'
+< Fila 2 > Tamanho da fila 2 em 261'0
 -*-
-FILA 2 Sistema livre em 262'
-FILA 2 Tamanho da fila 2 em 262'0
+< Fila 2 > Sistema livre em 262'
+< Fila 2 > Tamanho da fila 2 em 262'0
 -*-
-FILA 2 Sistema livre em 263'
-FILA 2 Tamanho da fila 2 em 263'0
+< Fila 2 > Sistema livre em 263'
+< Fila 2 > Tamanho da fila 2 em 263'0
 -*-
-FILA 2 Sistema livre em 264'
-FILA 2 Tamanho da fila 2 em 264'0
+< Fila 2 > Sistema livre em 264'
+< Fila 2 > Tamanho da fila 2 em 264'0
 -*-
-FILA 2 Sistema livre em 265'
-FILA 2 Tamanho da fila 2 em 265'0
+< Fila 2 > Sistema livre em 265'
+< Fila 2 > Tamanho da fila 2 em 265'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 266'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 266'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 266'
-FILA 1 Tamanho da fila 1 em 266'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 266'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 266'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 266'
+< Fila 1 > Tamanho da fila 1 em 266'6
 -*-
-FILA 2 Sistema livre em 266'
-FILA 2 Tamanho da fila 2 em 266'0
+< Fila 2 > Sistema livre em 266'
+< Fila 2 > Tamanho da fila 2 em 266'0
 -*-
-FILA 2 Sistema livre em 266'
-FILA 2 Tamanho da fila 2 em 266'0
+< Fila 2 > Sistema livre em 266'
+< Fila 2 > Tamanho da fila 2 em 266'0
 -*-
-FILA 2 Sistema livre em 267'
-FILA 2 Tamanho da fila 2 em 267'0
+< Fila 2 > Sistema livre em 267'
+< Fila 2 > Tamanho da fila 2 em 267'0
 -*-
-FILA 2 Sistema livre em 268'
-FILA 2 Tamanho da fila 2 em 268'0
+< Fila 2 > Sistema livre em 268'
+< Fila 2 > Tamanho da fila 2 em 268'0
 -*-
-FILA 2 Sistema livre em 269'
-FILA 2 Tamanho da fila 2 em 269'0
+< Fila 2 > Sistema livre em 269'
+< Fila 2 > Tamanho da fila 2 em 269'0
 -*-
-FILA 2 Sistema livre em 270'
-FILA 2 Tamanho da fila 2 em 270'0
+< Fila 2 > Sistema livre em 270'
+< Fila 2 > Tamanho da fila 2 em 270'0
 -*-
-FILA 2 Sistema livre em 271'
-FILA 2 Tamanho da fila 2 em 271'0
+< Fila 2 > Sistema livre em 271'
+< Fila 2 > Tamanho da fila 2 em 271'0
 -*-
-FILA 2 Sistema livre em 272'
-FILA 2 Tamanho da fila 2 em 272'0
+< Fila 2 > Sistema livre em 272'
+< Fila 2 > Tamanho da fila 2 em 272'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 273'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 273'
-FILA 1 atendimento do Sistema encerrado em 7'
-FILA 1 Sistema ocupada em 273'
-FILA 1 Tamanho da fila 1 em 273'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 273'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 273'
+< Fila 1 > atendimento do Sistema encerrado em 7'
+< Fila 1 > Sistema ocupada em 273'
+< Fila 1 > Tamanho da fila 1 em 273'6
 -*-
-FILA 2 Sistema livre em 273'
-FILA 2 Tamanho da fila 2 em 273'0
+< Fila 2 > Sistema livre em 273'
+< Fila 2 > Tamanho da fila 2 em 273'0
 -*-
-FILA 2 Sistema livre em 273'
-FILA 2 Tamanho da fila 2 em 273'0
+< Fila 2 > Sistema livre em 273'
+< Fila 2 > Tamanho da fila 2 em 273'0
 -*-
-FILA 2 Sistema livre em 274'
-FILA 2 Tamanho da fila 2 em 274'0
+< Fila 2 > Sistema livre em 274'
+< Fila 2 > Tamanho da fila 2 em 274'0
 -*-
-FILA 2 Sistema livre em 275'
-FILA 2 Tamanho da fila 2 em 275'0
+< Fila 2 > Sistema livre em 275'
+< Fila 2 > Tamanho da fila 2 em 275'0
 -*-
-FILA 2 Sistema livre em 276'
-FILA 2 Tamanho da fila 2 em 276'0
+< Fila 2 > Sistema livre em 276'
+< Fila 2 > Tamanho da fila 2 em 276'0
 -*-
-FILA 2 Sistema livre em 277'
-FILA 2 Tamanho da fila 2 em 277'0
+< Fila 2 > Sistema livre em 277'
+< Fila 2 > Tamanho da fila 2 em 277'0
 -*-
-FILA 2 Sistema livre em 278'
-FILA 2 Tamanho da fila 2 em 278'0
+< Fila 2 > Sistema livre em 278'
+< Fila 2 > Tamanho da fila 2 em 278'0
 -*-
-FILA 2 Sistema livre em 279'
-FILA 2 Tamanho da fila 2 em 279'0
+< Fila 2 > Sistema livre em 279'
+< Fila 2 > Tamanho da fila 2 em 279'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 280'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 280'
-FILA 1 atendimento do Sistema encerrado em 10'
-FILA 1 Sistema ocupada em 280'
-FILA 1 Tamanho da fila 1 em 280'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 280'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 280'
+< Fila 1 > atendimento do Sistema encerrado em 10'
+< Fila 1 > Sistema ocupada em 280'
+< Fila 1 > Tamanho da fila 1 em 280'6
 -*-
-FILA 2 Sistema livre em 280'
-FILA 2 Tamanho da fila 2 em 280'0
+< Fila 2 > Sistema livre em 280'
+< Fila 2 > Tamanho da fila 2 em 280'0
 -*-
-FILA 2 Sistema livre em 280'
-FILA 2 Tamanho da fila 2 em 280'0
+< Fila 2 > Sistema livre em 280'
+< Fila 2 > Tamanho da fila 2 em 280'0
 -*-
-FILA 2 Sistema livre em 281'
-FILA 2 Tamanho da fila 2 em 281'0
+< Fila 2 > Sistema livre em 281'
+< Fila 2 > Tamanho da fila 2 em 281'0
 -*-
-FILA 2 Sistema livre em 282'
-FILA 2 Tamanho da fila 2 em 282'0
+< Fila 2 > Sistema livre em 282'
+< Fila 2 > Tamanho da fila 2 em 282'0
 -*-
-FILA 2 Sistema livre em 283'
-FILA 2 Tamanho da fila 2 em 283'0
+< Fila 2 > Sistema livre em 283'
+< Fila 2 > Tamanho da fila 2 em 283'0
 -*-
-FILA 2 Sistema livre em 284'
-FILA 2 Tamanho da fila 2 em 284'0
+< Fila 2 > Sistema livre em 284'
+< Fila 2 > Tamanho da fila 2 em 284'0
 -*-
-FILA 2 Sistema livre em 285'
-FILA 2 Tamanho da fila 2 em 285'0
+< Fila 2 > Sistema livre em 285'
+< Fila 2 > Tamanho da fila 2 em 285'0
 -*-
-FILA 2 Sistema livre em 286'
-FILA 2 Tamanho da fila 2 em 286'0
+< Fila 2 > Sistema livre em 286'
+< Fila 2 > Tamanho da fila 2 em 286'0
 -*-
-FILA 2 Sistema livre em 287'
-FILA 2 Tamanho da fila 2 em 287'0
+< Fila 2 > Sistema livre em 287'
+< Fila 2 > Tamanho da fila 2 em 287'0
 -*-
-FILA 2 Sistema livre em 288'
-FILA 2 Tamanho da fila 2 em 288'0
+< Fila 2 > Sistema livre em 288'
+< Fila 2 > Tamanho da fila 2 em 288'0
 -*-
-FILA 2 Sistema livre em 289'
-FILA 2 Tamanho da fila 2 em 289'0
+< Fila 2 > Sistema livre em 289'
+< Fila 2 > Tamanho da fila 2 em 289'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 290'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 290'
-FILA 1 atendimento do Sistema encerrado em 10'
-FILA 1 Sistema ocupada em 290'
-FILA 1 Tamanho da fila 1 em 290'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 290'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 290'
+< Fila 1 > atendimento do Sistema encerrado em 10'
+< Fila 1 > Sistema ocupada em 290'
+< Fila 1 > Tamanho da fila 1 em 290'6
 -*-
-FILA 2 Sistema livre em 290'
-FILA 2 Tamanho da fila 2 em 290'0
+< Fila 2 > Sistema livre em 290'
+< Fila 2 > Tamanho da fila 2 em 290'0
 -*-
-FILA 2 Sistema livre em 290'
-FILA 2 Tamanho da fila 2 em 290'0
+< Fila 2 > Sistema livre em 290'
+< Fila 2 > Tamanho da fila 2 em 290'0
 -*-
-FILA 2 Sistema livre em 291'
-FILA 2 Tamanho da fila 2 em 291'0
+< Fila 2 > Sistema livre em 291'
+< Fila 2 > Tamanho da fila 2 em 291'0
 -*-
-FILA 2 Sistema livre em 292'
-FILA 2 Tamanho da fila 2 em 292'0
+< Fila 2 > Sistema livre em 292'
+< Fila 2 > Tamanho da fila 2 em 292'0
 -*-
-FILA 2 Sistema livre em 293'
-FILA 2 Tamanho da fila 2 em 293'0
+< Fila 2 > Sistema livre em 293'
+< Fila 2 > Tamanho da fila 2 em 293'0
 -*-
-FILA 2 Sistema livre em 294'
-FILA 2 Tamanho da fila 2 em 294'0
+< Fila 2 > Sistema livre em 294'
+< Fila 2 > Tamanho da fila 2 em 294'0
 -*-
-FILA 2 Sistema livre em 295'
-FILA 2 Tamanho da fila 2 em 295'0
+< Fila 2 > Sistema livre em 295'
+< Fila 2 > Tamanho da fila 2 em 295'0
 -*-
-FILA 2 Sistema livre em 296'
-FILA 2 Tamanho da fila 2 em 296'0
+< Fila 2 > Sistema livre em 296'
+< Fila 2 > Tamanho da fila 2 em 296'0
 -*-
-FILA 2 Sistema livre em 297'
-FILA 2 Tamanho da fila 2 em 297'0
+< Fila 2 > Sistema livre em 297'
+< Fila 2 > Tamanho da fila 2 em 297'0
 -*-
-FILA 2 Sistema livre em 298'
-FILA 2 Tamanho da fila 2 em 298'0
+< Fila 2 > Sistema livre em 298'
+< Fila 2 > Tamanho da fila 2 em 298'0
 -*-
-FILA 2 Sistema livre em 299'
-FILA 2 Tamanho da fila 2 em 299'0
+< Fila 2 > Sistema livre em 299'
+< Fila 2 > Tamanho da fila 2 em 299'0
 -*-
-FILA 1 Evento 3 > atendimento do Sistema encerrado em 300'
-FILA 1 Evento 2 > atendimento do Sistema iniciado em 300'
-FILA 1 atendimento do Sistema encerrado em 10'
-FILA 1 Sistema ocupada em 300'
-FILA 1 Tamanho da fila 1 em 300'6
+< Fila 1 > Evento 3 > atendimento do Sistema encerrado em 300'
+< Fila 1 > Evento 2 > atendimento do Sistema iniciado em 300'
+< Fila 1 > atendimento do Sistema encerrado em 10'
+< Fila 1 > Sistema ocupada em 300'
+< Fila 1 > Tamanho da fila 1 em 300'6
 -*-
-FILA 2 Sistema livre em 300'
-FILA 2 Tamanho da fila 2 em 300'0
+< Fila 2 > Sistema livre em 300'
+< Fila 2 > Tamanho da fila 2 em 300'0
 -*-
-FILA 2 Sistema livre em 300'
-FILA 2 Tamanho da fila 2 em 300'0
+< Fila 2 > Sistema livre em 300'
+< Fila 2 > Tamanho da fila 2 em 300'0
 -*-
