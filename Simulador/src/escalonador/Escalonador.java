@@ -64,6 +64,8 @@ public class Escalonador extends Thread {
 	
 	
 	public void checaEventosCriados(int segundos) {
+		System.out.println("CH1: " + chegada + " Segundos: " + segundos);
+
 		boolean houveAlteracao = false;
 		if (segundos == chegada) {
 			houveAlteracao = true;

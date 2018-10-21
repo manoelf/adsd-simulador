@@ -77,11 +77,10 @@ public class Escalonador2 extends Thread {
 		writer.close();
 	}
 	
-	public void eventoCriado1() {
-		
-	}
+
 	
 	public void checaEventosCriados(int segundos) {
+		System.out.println("CH1: " + chegada1 + " CH2: " + chegada2 + "Segundos: " + segundos);
 		boolean houveAlteracao = false;
 		if (segundos == chegada1) {
 			houveAlteracao = true;
@@ -100,7 +99,8 @@ public class Escalonador2 extends Thread {
 			//chegada1
 			escalonaChegada(segundos,this.indice1,this.numerosAleatorios1,this.mod1,this.chegada1);
 			writer.println("FILA 1 Proximo fregues em " + (this.chegada1 - segundos) + "'");
-		} else if (segundos == chegada2) {
+		} 
+		if (segundos == chegada2) {
 			houveAlteracao = true;
 			writer.println("FILA 2 Evento 1 > Chegada de fregues na Fila 2 aos " + segundos + "'");
 			if (!this.servico && this.filaChegada1 == 0) {
@@ -132,7 +132,8 @@ public class Escalonador2 extends Thread {
 			} else {
 				this.servico = false;
 			}
-		} else if (segundos == this.saida2) {
+		} 
+		if (segundos == this.saida2) {
 			houveAlteracao = true;
 			writer.println("FILA 2 Evento 3 > atendimento do Sistema encerrado em " + segundos + "'");
 			if (this.filaChegada2 != 0 && this.filaChegada1 == 0) {
@@ -149,6 +150,17 @@ public class Escalonador2 extends Thread {
 		}
 		
 		if (houveAlteracao) {
+			
+			
+			if (this.servico) {
+				writer.println("FILA 1 Sistema ocupada em " + segundos + "'");
+			} else {
+				writer.println("FILA 1 Sistema livre em " + segundos + "'");
+			}
+			writer.println("FILA 1 Tamanho da fila 1 em " + segundos + "'" + this.filaChegada1);
+			writer.println("-*-");
+			
+			
 			if (this.servico && this.filaChegada2 != 0 && filaChegada1 != 0) {
 				writer.println("FILA 2 Sistema ocupada em " + segundos + "'");
 			} else {
