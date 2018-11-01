@@ -39,10 +39,6 @@ public class Mesa extends Sim_entity {
             sim_process(delay);
             // The event has completed service
             sim_completed(e);
-            
-            i++;
-		
-		
 			
             if (i % 2 == 0) {
 				sim_schedule(saida1, 0.0, 1);
@@ -54,6 +50,7 @@ public class Mesa extends Sim_entity {
 				sim_schedule(saida3, 0.0, 1);
 				sim_trace(1, "Prato 03 ecolhido.");
 			}
+            i++;
 		}
 	}
 }
