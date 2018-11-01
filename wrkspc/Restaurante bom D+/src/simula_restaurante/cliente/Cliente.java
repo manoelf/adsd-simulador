@@ -8,6 +8,7 @@ public class Cliente extends Sim_entity{
 	
 	private Sim_port saida1, saida2, saida3, saida4, saida5;
 	private Sim_negexp_obj delay;
+	private double delay_sim;
 	
 	
 	public Cliente(String nome, double mean) {
@@ -50,8 +51,13 @@ public class Cliente extends Sim_entity{
      * meio do método sim_trace ()
      **/
 	public void body() {
-		for (int i = 0; i < 100; i++) {
-			
+		int i = 0;
+		while(Sim_system.running()) {
+		      Sim_event e = new Sim_event();
+		      sim_get_next(e);                 // Get the next event
+		      sim_process(delay_sim);              // Process the event
+		      sim_completed(e);                // The event has completed service
+		      
 			if (i % 4 == 0) {
 				//métodos de planejamento de eventos sim_schedule ()
 				sim_schedule(saida1, 0.0, 1);
@@ -73,6 +79,7 @@ public class Cliente extends Sim_entity{
 				sim_trace(1, "Mesa familia 02 escolhida");
 			}
 		}
+		i++;
 	}
 
 }
