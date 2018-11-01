@@ -1,0 +1,7 @@
+package simula_restaurante.cliente;
+
+import eduni.simjava.*;
+
+public class Cliente {
+
+}
