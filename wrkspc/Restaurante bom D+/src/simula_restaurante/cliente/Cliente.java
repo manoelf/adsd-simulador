@@ -2,16 +2,21 @@ package simula_restaurante.cliente;
 
 import eduni.simjava.*;
 import eduni.simjava.distributions.Sim_negexp_obj;
+import eduni.simjava.distributions.Sim_normal_obj;
+import eduni.simjava.distributions.Sim_random_obj;
 
 
 public class Cliente extends Sim_entity{
 	
 	private Sim_port saida1, saida2, saida3, saida4, saida5;
-	private Sim_negexp_obj delay;
+	private Sim_normal_obj delay;
+	private Sim_stat stat;
+    private Sim_random_obj prob;
 	private double delay_sim;
 	
 	
-	public Cliente(String nome, double mean) {
+	
+	public Cliente(String nome, double mean, double var) {
 		super(nome);
 		
 		saida1 = new Sim_port("Mesa para casal 01");
@@ -26,9 +31,17 @@ public class Cliente extends Sim_entity{
 		add_port(saida4);
 		add_port(saida5);
 		
-		delay = new Sim_negexp_obj("Delay", mean);
-		add_generator(delay);
+		//delay = new Sim_negexp_obj("Delay", mean);
+		//add_generator(delay);
 		
+		stat = new Sim_stat();
+		stat.add_measure(Sim_stat.UTILISATION);
+        set_stat(stat);
+        
+        delay = new Sim_normal_obj("Delay", mean, var);
+        prob = new Sim_random_obj("Probability");
+        add_generator(delay);
+        add_generator(prob);
 	}
 	
 
@@ -55,23 +68,24 @@ public class Cliente extends Sim_entity{
 		while(Sim_system.running()) {
 		      Sim_event e = new Sim_event();
 		      sim_get_next(e);                 // Get the next event
-		      sim_process(delay_sim);              // Process the event
+		      sim_process(delay.sample());              // Process the event
 		      sim_completed(e);                // The event has completed service
 		      
-			if (i % 4 == 0) {
+		      double p = prob.sample();
+			if (p > 0 && p < 0.2) {
 				//métodos de planejamento de eventos sim_schedule ()
 				sim_schedule(saida1, 0.0, 1);
 				
 				// todo o traço produzido é impresso em um arquivo (sim_trace)
 				sim_trace(1, "Mesa para casal 01 escolhida.");
 				
-			} else if (i % 3 == 0) {
+			} else if (p > 0.2 && p < 0.4) {
 				sim_schedule(saida2, 0.0, 1);
 				sim_trace(1, "Mesa para dois casais 01 escolhida.");
-			} else if (i % 2 == 0) {
+			} else if (p > 0.4 && p < 0.6) {
 				sim_schedule(saida3, 0.0, 1);
 				sim_trace(1, "Mesa para familia 01 escolhida");
-			} else if (i % 1 == 0) {
+			} else if (p > 0.6 && p < 0.8) {
 				sim_schedule(saida4, 0.0, 1);
 				sim_trace(1, "Mesa unica 01 escolhida");
 			} else {

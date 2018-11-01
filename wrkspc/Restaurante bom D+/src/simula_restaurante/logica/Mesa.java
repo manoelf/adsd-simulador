@@ -2,14 +2,19 @@ package simula_restaurante.logica;
 
 import eduni.simjava.*;
 import eduni.simjava.distributions.Sim_negexp_obj;
+import eduni.simjava.distributions.Sim_normal_obj;
+import eduni.simjava.distributions.Sim_random_obj;
 
 public class Mesa extends Sim_entity {
 	
 	private Sim_port entrada1, saida1, saida2, saida3;
 	private Sim_negexp_obj negexp;
-	private double delay;
-
-	public Mesa(String nome, double mean) {
+	private Sim_stat stat;
+    private Sim_normal_obj delay;
+    private Sim_random_obj prob;
+    private double mean;
+    
+	public Mesa(String nome, double mean, double var) {
 		super(nome);
 		
 		entrada1 = new Sim_port("Cliente");
@@ -17,7 +22,7 @@ public class Mesa extends Sim_entity {
 		saida2 = new Sim_port("Prato 02");
 		saida3 = new Sim_port("Prato 03");
 		
-		delay = mean;
+		this.mean = mean;
 		
 		add_port(entrada1);
 		add_port(saida1);
@@ -27,6 +32,16 @@ public class Mesa extends Sim_entity {
 		negexp = new Sim_negexp_obj("Delay", mean);
 		add_generator(negexp);
 		
+		stat = new Sim_stat();
+		stat.add_measure(Sim_stat.THROUGHPUT);
+        stat.add_measure(Sim_stat.RESIDENCE_TIME);
+        set_stat(stat);
+		
+        
+        delay = new Sim_normal_obj("Delay", mean, var);
+        prob = new Sim_random_obj("Probability");
+        add_generator(delay);
+        add_generator(prob);
 	}
 
 	public void body() {
@@ -36,7 +51,7 @@ public class Mesa extends Sim_entity {
             // Get the next event
             sim_get_next(e);
             // Process the event
-            sim_process(delay);
+            sim_process(mean);
             // The event has completed service
             sim_completed(e);
 			
