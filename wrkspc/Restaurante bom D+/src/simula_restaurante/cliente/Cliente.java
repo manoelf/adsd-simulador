@@ -19,11 +19,11 @@ public class Cliente extends Sim_entity{
 	public Cliente(String nome, double mean, double var) {
 		super(nome);
 		
-		saida1 = new Sim_port("Mesa para casal 01");
-		saida2 = new Sim_port("Mesa para dois casais 01");
-		saida3 = new Sim_port("Mesa para familia 01");
-		saida4 = new Sim_port("Mesa unica 01");
-		saida5 = new Sim_port("Mesa familia 02");
+		saida1 = new Sim_port("Out1");
+		saida2 = new Sim_port("Out2");
+		saida3 = new Sim_port("Out3");
+		saida4 = new Sim_port("Out4");
+		saida5 = new Sim_port("Out5");
 		
 		add_port(saida1);
 		add_port(saida2);
