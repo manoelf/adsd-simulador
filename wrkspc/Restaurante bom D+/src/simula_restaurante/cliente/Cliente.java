@@ -8,7 +8,9 @@ import eduni.simjava.distributions.Sim_random_obj;
 
 public class Cliente extends Sim_entity{
 	
-	private Sim_port saida1, saida2, saida3, saida4, saida5;
+	private Sim_port entradaFromRestaurante,saidaToMesa;
+	
+	private Sim_negexp_obj negexp;
 	private Sim_normal_obj delay;
 	private Sim_stat stat;
     private Sim_random_obj prob;
@@ -19,23 +21,23 @@ public class Cliente extends Sim_entity{
 	public Cliente(String nome, double mean, double var) {
 		super(nome);
 		
-		saida1 = new Sim_port("Out1");
-		saida2 = new Sim_port("Out2");
-		saida3 = new Sim_port("Out3");
-		saida4 = new Sim_port("Out4");
-		saida5 = new Sim_port("Out5");
+		entradaFromRestaurante = new Sim_port("entradaFromRestaurante");
+		saidaToMesa = new Sim_port("saidaToMesa");
 		
-		add_port(saida1);
-		add_port(saida2);
-		add_port(saida3);
-		add_port(saida4);
-		add_port(saida5);
+		add_port(entradaFromRestaurante);
+		add_port(saidaToMesa);
 		
-		//delay = new Sim_negexp_obj("Delay", mean);
-		//add_generator(delay);
+		negexp = new Sim_negexp_obj("Delay", mean);
+		add_generator(negexp);
 		
 		stat = new Sim_stat();
-		stat.add_measure(Sim_stat.UTILISATION);
+		this.stat.add_measure(Sim_stat.ARRIVAL_RATE);
+		this.stat.add_measure(Sim_stat.QUEUE_LENGTH);
+		this.stat.add_measure(Sim_stat.WAITING_TIME);
+		this.stat.add_measure(Sim_stat.UTILISATION);
+		this.stat.add_measure(Sim_stat.RESIDENCE_TIME);
+		
+
         set_stat(stat);
         
         delay = new Sim_normal_obj("Delay", mean, var);
@@ -70,30 +72,11 @@ public class Cliente extends Sim_entity{
 		      sim_get_next(e);                 // Get the next event
 		      sim_process(delay.sample());              // Process the event
 		      sim_completed(e);                // The event has completed service
-		      
+		      sim_schedule(saidaToMesa, 0.0, 1);
 		      double p = prob.sample();
-			if (p > 0 && p < 0.2) {
-				//métodos de planejamento de eventos sim_schedule ()
-				sim_schedule(saida1, 0.0, 1);
-				
-				// todo o traço produzido é impresso em um arquivo (sim_trace)
-				sim_trace(1, "Mesa para casal 01 escolhida.");
-				
-			} else if (p > 0.2 && p < 0.4) {
-				sim_schedule(saida2, 0.0, 1);
-				sim_trace(1, "Mesa para dois casais 01 escolhida.");
-			} else if (p > 0.4 && p < 0.6) {
-				sim_schedule(saida3, 0.0, 1);
-				sim_trace(1, "Mesa para familia 01 escolhida");
-			} else if (p > 0.6 && p < 0.8) {
-				sim_schedule(saida4, 0.0, 1);
-				sim_trace(1, "Mesa unica 01 escolhida");
-			} else {
-				sim_schedule(saida5, 0.0, 1);
-				sim_trace(1, "Mesa familia 02 escolhida");
-			}
+		      sim_trace(1,i +  " - Mesa para casal escolhida.");
+		      i ++;
 		}
-		i++;
 	}
 
 }

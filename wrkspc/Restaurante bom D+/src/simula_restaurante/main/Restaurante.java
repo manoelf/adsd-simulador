@@ -6,7 +6,7 @@ import eduni.simjava.distributions.Sim_negexp_obj;
 
 public class Restaurante extends Sim_entity {
 
-	private Sim_port saida1; 
+	private Sim_port saidaToCliente; 
 	private Sim_negexp_obj delay;
 	private double mean;
 	
@@ -14,9 +14,9 @@ public class Restaurante extends Sim_entity {
 		super(nome);
 		this.mean = mean;
 		
-		saida1 = new Sim_port("Cliente");
+		saidaToCliente = new Sim_port("saidaToCliente");
 		
-		add_port(saida1);
+		add_port(saidaToCliente);
 		
 		delay = new Sim_negexp_obj("Delay", mean);
         add_generator(delay);
@@ -24,12 +24,12 @@ public class Restaurante extends Sim_entity {
 
 	public void body() {
 		for (int i=0; i < 100; i++) {
-          // Send the processor a job
-          sim_schedule(saida1, 0.0, 0);
-          sim_trace(1, "Cliente no restaurante.");
-          // Pause
-          sim_pause(delay.sample());
+			
+			// Send the processor a job
+			sim_schedule(saidaToCliente, 0.0, 1);
+			sim_trace(1, "Cliente no restaurante.");
+			// Pause
+			sim_pause(delay.sample());
         }
       }	
-
 }
