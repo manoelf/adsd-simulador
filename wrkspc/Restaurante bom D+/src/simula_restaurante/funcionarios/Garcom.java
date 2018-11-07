@@ -18,7 +18,11 @@ public class Garcom extends Funcionario{
 		this.stat = new Sim_stat();
 		
 		entradaFromPedido = new Sim_port("entradaFromPedido");
+		
 		add_port(entradaFromPedido);
+		
+		
+		
 		add_generator(delay);
 		
 		this.stat.add_measure(Sim_stat.ARRIVAL_RATE);

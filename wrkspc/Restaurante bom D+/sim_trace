@@ -1,405 +1,410 @@
-u: Restaurante at 0.0: Cliente no restaurante.
+u: Restaurante at 0.0: Cliente 1 no restaurante.
 u: Cliente1 at 108.28321743489094: 0 - Mesa para casal escolhida.
-u: Restaurante at 214.4444285107333: Cliente no restaurante.
-u: Restaurante at 240.88834941272754: Cliente no restaurante.
-u: Cliente1 at 319.08800630864937: 1 - Mesa para casal escolhida.
+u: Restaurante at 214.4444285107333: Cliente 2 no restaurante.
+u: Restaurante at 240.88834941272754: Cliente 1 no restaurante.
+u: Cliente1 at 345.53192721064363: 1 - Mesa para casal escolhida.
 u: Mesa1 at 358.68321743489093: pedido Feito
-u: Cliente1 at 410.6379134231237: 2 - Mesa para casal escolhida.
-u: Restaurante at 428.77408417611474: Cliente no restaurante.
-u: Cliente1 at 518.7908260525691: 3 - Mesa para casal escolhida.
+u: Cliente2 at 370.98352111667305: 0 - Mesa para casal escolhida.
+u: Restaurante at 428.77408417611474: Cliente 2 no restaurante.
+u: Mesa2 at 571.383521116673: pedido Feito
+u: Cliente2 at 578.5014811387762: 1 - Mesa para casal escolhida.
 u: Mesa1 at 609.0832174348909: pedido Feito
 u: Pedido1 at 693.8832174348909: Pedido da mesa feito
-u: Restaurante at 774.4979836498193: Cliente no restaurante.
-u: Mesa1 at 859.4832174348909: pedido Feito
-u: Cliente1 at 885.2417400652804: 4 - Mesa para casal escolhida.
-u: Restaurante at 992.1305764934544: Cliente no restaurante.
+u: Restaurante at 774.4979836498193: Cliente 1 no restaurante.
+u: Mesa2 at 778.9014811387761: pedido Feito
+u: Cliente1 at 866.0478907642936: 2 - Mesa para casal escolhida.
+u: Restaurante at 992.1305764934544: Cliente 2 no restaurante.
+u: Pedido2 at 1006.583521116673: Pedido da mesa feito
 u: Pedido1 at 1029.083217434891: Pedido da mesa feito
-u: Cliente1 at 1097.4525222684597: 5 - Mesa para casal escolhida.
-u: Mesa1 at 1109.8832174348909: pedido Feito
-u: Restaurante at 1168.2819895018904: Cliente no restaurante.
-u: Restaurante at 1250.8245682300337: Cliente no restaurante.
-u: Cliente1 at 1292.9479624398905: 6 - Mesa para casal escolhida.
-u: Mesa1 at 1360.283217434891: pedido Feito
-u: Pedido1 at 1364.283217434891: Pedido da mesa feito
-u: Restaurante at 1386.282898256534: Cliente no restaurante.
-u: Restaurante at 1392.324873952768: Cliente no restaurante.
-u: Cliente1 at 1396.2447427580835: 7 - Mesa para casal escolhida.
-u: Restaurante at 1461.5342686120625: Cliente no restaurante.
-u: Cliente1 at 1492.856309170211: 8 - Mesa para casal escolhida.
-u: Cliente1 at 1591.2001778093763: 9 - Mesa para casal escolhida.
-u: Mesa1 at 1610.683217434891: pedido Feito
-u: Restaurante at 1617.2100440966478: Cliente no restaurante.
-u: Cliente1 at 1697.6586437680762: 10 - Mesa para casal escolhida.
-u: Pedido1 at 1699.483217434891: Pedido da mesa feito
-u: Cliente1 at 1797.5676900814615: 11 - Mesa para casal escolhida.
-u: Restaurante at 1824.0034654022609: Cliente no restaurante.
-u: Mesa1 at 1861.0832174348911: pedido Feito
-u: Cliente1 at 1945.301055245843: 12 - Mesa para casal escolhida.
-u: Restaurante at 1954.207979309528: Cliente no restaurante.
-u: Restaurante at 1967.56418091147: Cliente no restaurante.
-u: Restaurante at 1969.9604197687238: Cliente no restaurante.
-u: Restaurante at 1995.4693901046617: Cliente no restaurante.
-u: Restaurante at 2006.37285106559: Cliente no restaurante.
-u: Pedido1 at 2034.683217434891: Pedido da mesa feito
-u: Cliente1 at 2062.2304239624286: 13 - Mesa para casal escolhida.
-u: Mesa1 at 2111.4832174348912: pedido Feito
-u: Cliente1 at 2167.839973228832: 14 - Mesa para casal escolhida.
-u: Restaurante at 2204.343605029402: Cliente no restaurante.
-u: Cliente1 at 2264.303646926899: 15 - Mesa para casal escolhida.
-u: Restaurante at 2299.27525279049: Cliente no restaurante.
-u: Cliente1 at 2355.6712044095325: 16 - Mesa para casal escolhida.
-u: Mesa1 at 2361.8832174348913: pedido Feito
-u: Pedido1 at 2369.883217434891: Pedido da mesa feito
-u: Restaurante at 2401.0474316131895: Cliente no restaurante.
-u: Cliente1 at 2453.0098793047955: 17 - Mesa para casal escolhida.
-u: Cliente1 at 2573.4742413744766: 18 - Mesa para casal escolhida.
-u: Mesa1 at 2612.2832174348914: pedido Feito
-u: Cliente1 at 2682.9948631075927: 19 - Mesa para casal escolhida.
-u: Restaurante at 2704.032287463712: Cliente no restaurante.
-u: Pedido1 at 2705.0832174348907: Pedido da mesa feito
-u: Cliente1 at 2779.929556542863: 20 - Mesa para casal escolhida.
-u: Mesa1 at 2862.6832174348915: pedido Feito
-u: Cliente1 at 2879.5892443384005: 21 - Mesa para casal escolhida.
-u: Restaurante at 2899.528368514199: Cliente no restaurante.
-u: Cliente1 at 3005.590894635406: 22 - Mesa para casal escolhida.
-u: Pedido1 at 3040.2832174348905: Pedido da mesa feito
-u: Mesa1 at 3113.0832174348916: pedido Feito
-u: Restaurante at 3244.0310835315495: Cliente no restaurante.
-u: Cliente1 at 3357.2175113478484: 23 - Mesa para casal escolhida.
-u: Restaurante at 3358.642057897819: Cliente no restaurante.
-u: Mesa1 at 3363.4832174348917: pedido Feito
-u: Pedido1 at 3375.4832174348903: Pedido da mesa feito
-u: Cliente1 at 3454.5359869419917: 24 - Mesa para casal escolhida.
-u: Mesa1 at 3613.883217434892: pedido Feito
-u: Restaurante at 3666.9594037437455: Cliente no restaurante.
-u: Pedido1 at 3710.68321743489: Pedido da mesa feito
-u: Cliente1 at 3775.9798967847096: 25 - Mesa para casal escolhida.
-u: Restaurante at 3833.3460683967496: Cliente no restaurante.
-u: Mesa1 at 3864.283217434892: pedido Feito
-u: Cliente1 at 3924.734928353704: 26 - Mesa para casal escolhida.
-u: Restaurante at 4033.4426842573207: Cliente no restaurante.
-u: Pedido1 at 4045.88321743489: Pedido da mesa feito
-u: Restaurante at 4114.1387982851: Cliente no restaurante.
-u: Mesa1 at 4114.683217434892: pedido Feito
-u: Cliente1 at 4140.233468754384: 27 - Mesa para casal escolhida.
-u: Cliente1 at 4250.237104109416: 28 - Mesa para casal escolhida.
-u: Restaurante at 4331.07301362942: Cliente no restaurante.
-u: Mesa1 at 4365.083217434892: pedido Feito
-u: Pedido1 at 4381.08321743489: Pedido da mesa feito
-u: Cliente1 at 4434.394945587128: 29 - Mesa para casal escolhida.
-u: Restaurante at 4496.778718430489: Cliente no restaurante.
-u: Cliente1 at 4599.82948998089: 30 - Mesa para casal escolhida.
-u: Mesa1 at 4615.483217434891: pedido Feito
-u: Restaurante at 4625.105706961292: Cliente no restaurante.
-u: Pedido1 at 4716.28321743489: Pedido da mesa feito
-u: Cliente1 at 4717.193484488929: 31 - Mesa para casal escolhida.
-u: Restaurante at 4740.618533495084: Cliente no restaurante.
-u: Cliente1 at 4834.111007650479: 32 - Mesa para casal escolhida.
-u: Mesa1 at 4865.883217434891: pedido Feito
-u: Restaurante at 4943.278713666931: Cliente no restaurante.
-u: Restaurante at 4993.003091871929: Cliente no restaurante.
-u: Cliente1 at 5039.458053159259: 33 - Mesa para casal escolhida.
-u: Pedido1 at 5051.483217434889: Pedido da mesa feito
-u: Mesa1 at 5116.2832174348905: pedido Feito
-u: Cliente1 at 5156.181863922453: 34 - Mesa para casal escolhida.
-u: Restaurante at 5174.62965109271: Cliente no restaurante.
-u: Restaurante at 5196.075639469206: Cliente no restaurante.
-u: Cliente1 at 5272.372528378734: 35 - Mesa para casal escolhida.
-u: Mesa1 at 5366.68321743489: pedido Feito
-u: Cliente1 at 5373.45262858018: 36 - Mesa para casal escolhida.
-u: Restaurante at 5382.0389617312185: Cliente no restaurante.
-u: Pedido1 at 5386.683217434889: Pedido da mesa feito
-u: Restaurante at 5435.812186405702: Cliente no restaurante.
-u: Cliente1 at 5495.215168417621: 37 - Mesa para casal escolhida.
-u: Restaurante at 5501.022473522406: Cliente no restaurante.
-u: Restaurante at 5503.383647354354: Cliente no restaurante.
-u: Cliente1 at 5615.463807391365: 38 - Mesa para casal escolhida.
-u: Mesa1 at 5617.08321743489: pedido Feito
-u: Restaurante at 5673.978953148303: Cliente no restaurante.
-u: Cliente1 at 5703.78188702221: 39 - Mesa para casal escolhida.
-u: Pedido1 at 5721.883217434889: Pedido da mesa feito
-u: Restaurante at 5748.611116483027: Cliente no restaurante.
-u: Cliente1 at 5806.935590097945: 40 - Mesa para casal escolhida.
-u: Restaurante at 5835.6805886519505: Cliente no restaurante.
-u: Mesa1 at 5867.483217434889: pedido Feito
-u: Restaurante at 5874.9424737592: Cliente no restaurante.
-u: Cliente1 at 5898.065309946845: 41 - Mesa para casal escolhida.
-u: Cliente1 at 6011.904891001163: 42 - Mesa para casal escolhida.
-u: Restaurante at 6054.419065528448: Cliente no restaurante.
-u: Pedido1 at 6057.083217434889: Pedido da mesa feito
-u: Mesa1 at 6117.883217434889: pedido Feito
-u: Cliente1 at 6123.800003760077: 43 - Mesa para casal escolhida.
-u: Cliente1 at 6224.569937157505: 44 - Mesa para casal escolhida.
-u: Cliente1 at 6320.410213121824: 45 - Mesa para casal escolhida.
-u: Mesa1 at 6368.283217434889: pedido Feito
-u: Pedido1 at 6392.283217434889: Pedido da mesa feito
-u: Restaurante at 6466.455853813823: Cliente no restaurante.
-u: Restaurante at 6510.20128428127: Cliente no restaurante.
-u: Cliente1 at 6571.039654651608: 46 - Mesa para casal escolhida.
-u: Mesa1 at 6618.683217434888: pedido Feito
-u: Cliente1 at 6670.595780442939: 47 - Mesa para casal escolhida.
-u: Pedido1 at 6727.4832174348885: Pedido da mesa feito
-u: Mesa1 at 6869.083217434888: pedido Feito
-u: Restaurante at 6903.360624955532: Cliente no restaurante.
-u: Restaurante at 6946.574522956822: Cliente no restaurante.
-u: Cliente1 at 7011.942937515333: 48 - Mesa para casal escolhida.
-u: Pedido1 at 7062.683217434888: Pedido da mesa feito
-u: Restaurante at 7073.246588110198: Cliente no restaurante.
-u: Mesa1 at 7119.483217434888: pedido Feito
-u: Cliente1 at 7120.575742983697: 49 - Mesa para casal escolhida.
-u: Cliente1 at 7226.501444515487: 50 - Mesa para casal escolhida.
-u: Mesa1 at 7369.883217434887: pedido Feito
-u: Pedido1 at 7397.883217434888: Pedido da mesa feito
-u: Restaurante at 7610.565275289042: Cliente no restaurante.
-u: Mesa1 at 7620.283217434887: pedido Feito
-u: Cliente1 at 7722.180732734969: 51 - Mesa para casal escolhida.
-u: Pedido1 at 7733.083217434888: Pedido da mesa feito
-u: Restaurante at 7806.657037326973: Cliente no restaurante.
-u: Restaurante at 7809.1817922987175: Cliente no restaurante.
-u: Restaurante at 7863.87823451195: Cliente no restaurante.
-u: Mesa1 at 7870.6832174348865: pedido Feito
-u: Cliente1 at 7917.947033013164: 52 - Mesa para casal escolhida.
-u: Restaurante at 7966.9652698253: Cliente no restaurante.
-u: Cliente1 at 8022.335898186604: 53 - Mesa para casal escolhida.
-u: Restaurante at 8042.950679514169: Cliente no restaurante.
-u: Pedido1 at 8068.283217434888: Pedido da mesa feito
-u: Mesa1 at 8121.083217434886: pedido Feito
-u: Cliente1 at 8139.165060605411: 54 - Mesa para casal escolhida.
-u: Restaurante at 8172.702337117272: Cliente no restaurante.
-u: Restaurante at 8190.006424759641: Cliente no restaurante.
-u: Cliente1 at 8245.027762594405: 55 - Mesa para casal escolhida.
-u: Cliente1 at 8353.12829311399: 56 - Mesa para casal escolhida.
-u: Restaurante at 8363.026621879959: Cliente no restaurante.
-u: Mesa1 at 8371.483217434887: pedido Feito
-u: Pedido1 at 8403.483217434889: Pedido da mesa feito
-u: Restaurante at 8450.507209284115: Cliente no restaurante.
-u: Cliente1 at 8451.927896827365: 57 - Mesa para casal escolhida.
-u: Restaurante at 8521.375665373902: Cliente no restaurante.
-u: Cliente1 at 8566.342135372148: 58 - Mesa para casal escolhida.
-u: Mesa1 at 8621.883217434886: pedido Feito
-u: Restaurante at 8624.544323169317: Cliente no restaurante.
-u: Cliente1 at 8657.912707360874: 59 - Mesa para casal escolhida.
-u: Pedido1 at 8738.68321743489: Pedido da mesa feito
-u: Restaurante at 8750.534228577051: Cliente no restaurante.
-u: Cliente1 at 8758.658080189793: 60 - Mesa para casal escolhida.
-u: Restaurante at 8765.850361317853: Cliente no restaurante.
-u: Restaurante at 8827.551921471486: Cliente no restaurante.
-u: Restaurante at 8846.37865556898: Cliente no restaurante.
-u: Mesa1 at 8872.283217434886: pedido Feito
-u: Cliente1 at 8874.49547518213: 61 - Mesa para casal escolhida.
-u: Cliente1 at 8971.193337976569: 62 - Mesa para casal escolhida.
-u: Restaurante at 8995.164100455646: Cliente no restaurante.
-u: Restaurante at 9070.385748646793: Cliente no restaurante.
-u: Pedido1 at 9073.88321743489: Pedido da mesa feito
-u: Cliente1 at 9075.608552572969: 63 - Mesa para casal escolhida.
-u: Mesa1 at 9122.683217434886: pedido Feito
-u: Cliente1 at 9169.841406263587: 64 - Mesa para casal escolhida.
-u: Restaurante at 9191.710654079943: Cliente no restaurante.
-u: Cliente1 at 9276.124741632351: 65 - Mesa para casal escolhida.
-u: Restaurante at 9286.759251276404: Cliente no restaurante.
-u: Mesa1 at 9373.083217434885: pedido Feito
-u: Cliente1 at 9389.196459039096: 66 - Mesa para casal escolhida.
-u: Restaurante at 9391.996552529767: Cliente no restaurante.
-u: Pedido1 at 9409.08321743489: Pedido da mesa feito
-u: Cliente1 at 9486.707664664136: 67 - Mesa para casal escolhida.
-u: Cliente1 at 9591.24534748469: 68 - Mesa para casal escolhida.
-u: Mesa1 at 9623.483217434885: pedido Feito
-u: Restaurante at 9684.096468757225: Cliente no restaurante.
-u: Cliente1 at 9691.331642021467: 69 - Mesa para casal escolhida.
-u: Restaurante at 9722.90067276846: Cliente no restaurante.
-u: Pedido1 at 9744.283217434891: Pedido da mesa feito
-u: Cliente1 at 9794.129156086447: 70 - Mesa para casal escolhida.
-u: Mesa1 at 9873.883217434885: pedido Feito
-u: Cliente1 at 9893.7414303009: 71 - Mesa para casal escolhida.
-u: Cliente1 at 10011.565677301634: 72 - Mesa para casal escolhida.
-u: Pedido1 at 10079.483217434892: Pedido da mesa feito
-u: Cliente1 at 10114.986074200635: 73 - Mesa para casal escolhida.
-u: Mesa1 at 10124.283217434884: pedido Feito
-u: Restaurante at 10325.484748889388: Cliente no restaurante.
-u: Mesa1 at 10374.683217434884: pedido Feito
-u: Pedido1 at 10414.683217434893: Pedido da mesa feito
-u: Cliente1 at 10422.77698880501: 74 - Mesa para casal escolhida.
-u: Mesa1 at 10625.083217434883: pedido Feito
-u: Pedido1 at 10749.883217434894: Pedido da mesa feito
-u: Restaurante at 10842.892749382112: Cliente no restaurante.
-u: Mesa1 at 10875.483217434883: pedido Feito
-u: Cliente1 at 10933.407850121135: 75 - Mesa para casal escolhida.
-u: Restaurante at 11045.763982309445: Cliente no restaurante.
-u: Pedido1 at 11085.083217434894: Pedido da mesa feito
-u: Mesa1 at 11125.883217434883: pedido Feito
-u: Cliente1 at 11140.824521505252: 76 - Mesa para casal escolhida.
-u: Mesa1 at 11376.283217434882: pedido Feito
-u: Pedido1 at 11420.283217434895: Pedido da mesa feito
-u: Mesa1 at 11626.683217434882: pedido Feito
-u: Pedido1 at 11755.483217434896: Pedido da mesa feito
-u: Restaurante at 11871.088700534472: Cliente no restaurante.
-u: Mesa1 at 11877.083217434882: pedido Feito
-u: Cliente1 at 11979.982971785725: 77 - Mesa para casal escolhida.
-u: Restaurante at 11991.038432788904: Cliente no restaurante.
-u: Cliente1 at 12082.349668555946: 78 - Mesa para casal escolhida.
-u: Restaurante at 12084.380760099737: Cliente no restaurante.
-u: Pedido1 at 12090.683217434897: Pedido da mesa feito
-u: Mesa1 at 12127.483217434881: pedido Feito
-u: Restaurante at 12184.693593128603: Cliente no restaurante.
-u: Restaurante at 12189.53272302017: Cliente no restaurante.
-u: Cliente1 at 12196.644758465984: 79 - Mesa para casal escolhida.
-u: Cliente1 at 12303.361630034136: 80 - Mesa para casal escolhida.
-u: Mesa1 at 12377.88321743488: pedido Feito
-u: Cliente1 at 12402.841236302895: 81 - Mesa para casal escolhida.
-u: Pedido1 at 12425.883217434897: Pedido da mesa feito
-u: Restaurante at 12435.120242706096: Cliente no restaurante.
-u: Restaurante at 12463.280705969935: Cliente no restaurante.
-u: Cliente1 at 12544.081232375782: 82 - Mesa para casal escolhida.
-u: Mesa1 at 12628.28321743488: pedido Feito
-u: Cliente1 at 12645.686814243089: 83 - Mesa para casal escolhida.
-u: Restaurante at 12677.231913600493: Cliente no restaurante.
-u: Pedido1 at 12761.083217434898: Pedido da mesa feito
-u: Cliente1 at 12797.539038226221: 84 - Mesa para casal escolhida.
-u: Mesa1 at 12878.68321743488: pedido Feito
-u: Restaurante at 12982.000210077684: Cliente no restaurante.
-u: Restaurante at 13024.277715522901: Cliente no restaurante.
-u: Pedido1 at 13096.283217434899: Pedido da mesa feito
-u: Cliente1 at 13110.267136211318: 85 - Mesa para casal escolhida.
-u: Mesa1 at 13129.08321743488: pedido Feito
-u: Restaurante at 13133.520928449205: Cliente no restaurante.
-u: Restaurante at 13163.462959635144: Cliente no restaurante.
-u: Cliente1 at 13223.576131211317: 86 - Mesa para casal escolhida.
-u: Cliente1 at 13340.936581321523: 87 - Mesa para casal escolhida.
-u: Restaurante at 13370.569007013391: Cliente no restaurante.
-u: Mesa1 at 13379.48321743488: pedido Feito
-u: Pedido1 at 13431.4832174349: Pedido da mesa feito
-u: Cliente1 at 13433.852460703129: 88 - Mesa para casal escolhida.
-u: Cliente1 at 13540.398553434181: 89 - Mesa para casal escolhida.
-u: Mesa1 at 13629.883217434879: pedido Feito
-u: Restaurante at 13695.862613991103: Cliente no restaurante.
-u: Pedido1 at 13766.6832174349: Pedido da mesa feito
-u: Restaurante at 13784.323017478902: Cliente no restaurante.
-u: Cliente1 at 13801.198493300633: 90 - Mesa para casal escolhida.
-u: Restaurante at 13804.922779600207: Cliente no restaurante.
-u: Mesa1 at 13880.283217434879: pedido Feito
-u: Cliente1 at 13905.602656059038: 91 - Mesa para casal escolhida.
-u: Restaurante at 13920.469083783983: Cliente no restaurante.
-u: Cliente1 at 14003.787649871016: 92 - Mesa para casal escolhida.
-u: Restaurante at 14077.579338051306: Cliente no restaurante.
-u: Pedido1 at 14101.8832174349: Pedido da mesa feito
-u: Cliente1 at 14103.287889625853: 93 - Mesa para casal escolhida.
-u: Mesa1 at 14130.683217434878: pedido Feito
-u: Cliente1 at 14195.875562275729: 94 - Mesa para casal escolhida.
-u: Restaurante at 14262.38616914308: Cliente no restaurante.
-u: Restaurante at 14356.500940868154: Cliente no restaurante.
-u: Mesa1 at 14381.083217434878: pedido Feito
-u: Cliente1 at 14383.388765600172: 95 - Mesa para casal escolhida.
-u: Pedido1 at 14437.083217434902: Pedido da mesa feito
-u: Restaurante at 14467.15134015487: Cliente no restaurante.
-u: Cliente1 at 14484.325138016311: 96 - Mesa para casal escolhida.
-u: Cliente1 at 14599.081249469658: 97 - Mesa para casal escolhida.
-u: Mesa1 at 14631.483217434878: pedido Feito
-u: Restaurante at 14705.356491527538: Cliente no restaurante.
-u: Pedido1 at 14772.283217434902: Pedido da mesa feito
-u: Cliente1 at 14807.919784734087: 98 - Mesa para casal escolhida.
-u: Restaurante at 14876.715597368197: Cliente no restaurante.
-u: Mesa1 at 14881.883217434877: pedido Feito
-u: Cliente1 at 14970.467465632348: 99 - Mesa para casal escolhida.
-u: Pedido1 at 15107.483217434903: Pedido da mesa feito
-u: Mesa1 at 15132.283217434877: pedido Feito
-u: Mesa1 at 15382.683217434876: pedido Feito
-u: Pedido1 at 15442.683217434904: Pedido da mesa feito
-u: Mesa1 at 15633.083217434876: pedido Feito
-u: Pedido1 at 15777.883217434905: Pedido da mesa feito
-u: Mesa1 at 15883.483217434876: pedido Feito
-u: Pedido1 at 16113.083217434905: Pedido da mesa feito
-u: Mesa1 at 16133.883217434875: pedido Feito
-u: Mesa1 at 16384.283217434877: pedido Feito
-u: Pedido1 at 16448.283217434906: Pedido da mesa feito
-u: Mesa1 at 16634.68321743488: pedido Feito
-u: Pedido1 at 16783.483217434907: Pedido da mesa feito
-u: Mesa1 at 16885.08321743488: pedido Feito
-u: Pedido1 at 17118.683217434907: Pedido da mesa feito
-u: Mesa1 at 17135.48321743488: pedido Feito
-u: Mesa1 at 17385.883217434883: pedido Feito
-u: Pedido1 at 17453.883217434908: Pedido da mesa feito
-u: Mesa1 at 17636.283217434884: pedido Feito
-u: Pedido1 at 17789.08321743491: Pedido da mesa feito
-u: Mesa1 at 17886.683217434886: pedido Feito
-u: Pedido1 at 18124.28321743491: Pedido da mesa feito
-u: Mesa1 at 18137.083217434887: pedido Feito
-u: Mesa1 at 18387.48321743489: pedido Feito
-u: Pedido1 at 18459.48321743491: Pedido da mesa feito
-u: Mesa1 at 18637.88321743489: pedido Feito
-u: Pedido1 at 18794.68321743491: Pedido da mesa feito
-u: Mesa1 at 18888.28321743489: pedido Feito
-u: Pedido1 at 19129.88321743491: Pedido da mesa feito
-u: Mesa1 at 19138.683217434893: pedido Feito
-u: Mesa1 at 19389.083217434894: pedido Feito
-u: Pedido1 at 19465.083217434913: Pedido da mesa feito
-u: Mesa1 at 19639.483217434896: pedido Feito
-u: Pedido1 at 19800.283217434913: Pedido da mesa feito
-u: Mesa1 at 19889.883217434897: pedido Feito
-u: Pedido1 at 20135.483217434914: Pedido da mesa feito
-u: Mesa1 at 20140.2832174349: pedido Feito
-u: Mesa1 at 20390.6832174349: pedido Feito
-u: Pedido1 at 20470.683217434915: Pedido da mesa feito
-u: Mesa1 at 20641.0832174349: pedido Feito
-u: Pedido1 at 20805.883217434915: Pedido da mesa feito
-u: Mesa1 at 20891.483217434903: pedido Feito
-u: Pedido1 at 21141.083217434916: Pedido da mesa feito
-u: Mesa1 at 21141.883217434905: pedido Feito
-u: Mesa1 at 21392.283217434906: pedido Feito
-u: Pedido1 at 21476.283217434917: Pedido da mesa feito
-u: Mesa1 at 21642.683217434907: pedido Feito
-u: Pedido1 at 21811.483217434918: Pedido da mesa feito
-u: Mesa1 at 21893.08321743491: pedido Feito
-u: Mesa1 at 22143.48321743491: pedido Feito
-u: Pedido1 at 22146.68321743492: Pedido da mesa feito
-u: Mesa1 at 22393.88321743491: pedido Feito
-u: Pedido1 at 22481.88321743492: Pedido da mesa feito
-u: Mesa1 at 22644.283217434913: pedido Feito
-u: Pedido1 at 22817.08321743492: Pedido da mesa feito
-u: Mesa1 at 22894.683217434915: pedido Feito
-u: Mesa1 at 23145.083217434916: pedido Feito
-u: Pedido1 at 23152.28321743492: Pedido da mesa feito
-u: Mesa1 at 23395.483217434918: pedido Feito
-u: Pedido1 at 23487.48321743492: Pedido da mesa feito
-u: Mesa1 at 23645.88321743492: pedido Feito
-u: Pedido1 at 23822.683217434922: Pedido da mesa feito
-u: Mesa1 at 23896.28321743492: pedido Feito
-u: Mesa1 at 24146.683217434922: pedido Feito
-u: Pedido1 at 24157.883217434923: Pedido da mesa feito
-u: Mesa1 at 24397.083217434923: pedido Feito
-u: Pedido1 at 24493.083217434923: Pedido da mesa feito
-u: Mesa1 at 24647.483217434925: pedido Feito
-u: Pedido1 at 24828.283217434924: Pedido da mesa feito
-u: Mesa1 at 24897.883217434926: pedido Feito
-u: Mesa1 at 25148.283217434928: pedido Feito
-u: Pedido1 at 25163.483217434925: Pedido da mesa feito
-u: Pedido1 at 25498.683217434926: Pedido da mesa feito
-u: Pedido1 at 25833.883217434926: Pedido da mesa feito
-u: Pedido1 at 26169.083217434927: Pedido da mesa feito
-u: Pedido1 at 26504.283217434928: Pedido da mesa feito
-u: Pedido1 at 26839.48321743493: Pedido da mesa feito
-u: Pedido1 at 27174.68321743493: Pedido da mesa feito
-u: Pedido1 at 27509.88321743493: Pedido da mesa feito
-u: Pedido1 at 27845.08321743493: Pedido da mesa feito
-u: Pedido1 at 28180.28321743493: Pedido da mesa feito
-u: Pedido1 at 28515.483217434932: Pedido da mesa feito
-u: Pedido1 at 28850.683217434933: Pedido da mesa feito
-u: Pedido1 at 29185.883217434934: Pedido da mesa feito
-u: Pedido1 at 29521.083217434934: Pedido da mesa feito
-u: Pedido1 at 29856.283217434935: Pedido da mesa feito
-u: Pedido1 at 30191.483217434936: Pedido da mesa feito
-u: Pedido1 at 30526.683217434937: Pedido da mesa feito
-u: Pedido1 at 30861.883217434937: Pedido da mesa feito
-u: Pedido1 at 31197.083217434938: Pedido da mesa feito
-u: Pedido1 at 31532.28321743494: Pedido da mesa feito
-u: Pedido1 at 31867.48321743494: Pedido da mesa feito
-u: Pedido1 at 32202.68321743494: Pedido da mesa feito
-u: Pedido1 at 32537.88321743494: Pedido da mesa feito
-u: Pedido1 at 32873.08321743494: Pedido da mesa feito
-u: Pedido1 at 33208.28321743494: Pedido da mesa feito
-u: Pedido1 at 33543.483217434936: Pedido da mesa feito
-u: Pedido1 at 33878.68321743493: Pedido da mesa feito
-u: Pedido1 at 33878.68321743493: Pedido da mesa feito
-u: Garcom1 at 33878.68321743493: Pedido recebido.
-u: Garcom1 at 33878.68321743493: Pedido pronto.
-u: Mesa1 at 33878.68321743493: pedido Feito
-u: Cliente1 at 33878.68321743493: 100 - Mesa para casal escolhida.
+u: Mesa1 at 1116.4478907642936: pedido Feito
+u: Cliente2 at 1138.1252338592117: 2 - Mesa para casal escolhida.
+u: Restaurante at 1168.2819895018904: Cliente 1 no restaurante.
+u: Restaurante at 1250.8245682300337: Cliente 2 no restaurante.
+u: Cliente1 at 1258.2987313783447: 3 - Mesa para casal escolhida.
+u: Mesa2 at 1338.5252338592118: pedido Feito
+u: Restaurante at 1386.282898256534: Cliente 1 no restaurante.
+u: Restaurante at 1392.324873952768: Cliente 2 no restaurante.
+u: Cliente2 at 1400.4680539553665: 3 - Mesa para casal escolhida.
+u: Pedido2 at 1441.783521116673: Pedido da mesa feito
+u: Pedido1 at 1451.6478907642936: Pedido da mesa feito
+u: Restaurante at 1461.5342686120625: Cliente 1 no restaurante.
+u: Cliente1 at 1497.0266546719952: 4 - Mesa para casal escolhida.
+u: Mesa1 at 1508.6987313783447: pedido Feito
+u: Cliente2 at 1552.0506133157132: 4 - Mesa para casal escolhida.
+u: Mesa2 at 1600.8680539553666: pedido Feito
+u: Cliente1 at 1602.3486004470005: 5 - Mesa para casal escolhida.
+u: Restaurante at 1617.2100440966478: Cliente 2 no restaurante.
+u: Mesa1 at 1759.0987313783448: pedido Feito
+u: Cliente2 at 1761.0291867377439: 5 - Mesa para casal escolhida.
+u: Mesa2 at 1801.2680539553667: pedido Feito
+u: Restaurante at 1824.0034654022609: Cliente 1 no restaurante.
+u: Pedido1 at 1843.8987313783448: Pedido da mesa feito
+u: Pedido2 at 1876.983521116673: Pedido da mesa feito
+u: Cliente1 at 1948.669438340261: 6 - Mesa para casal escolhida.
+u: Restaurante at 1954.207979309528: Cliente 2 no restaurante.
+u: Restaurante at 1967.56418091147: Cliente 1 no restaurante.
+u: Restaurante at 1969.9604197687238: Cliente 2 no restaurante.
+u: Restaurante at 1995.4693901046617: Cliente 1 no restaurante.
+u: Mesa2 at 2001.6680539553668: pedido Feito
+u: Restaurante at 2006.37285106559: Cliente 2 no restaurante.
+u: Mesa1 at 2009.498731378345: pedido Feito
+u: Cliente1 at 2070.860961229663: 7 - Mesa para casal escolhida.
+u: Cliente2 at 2108.47932876169: 6 - Mesa para casal escolhida.
+u: Cliente1 at 2167.4725276417907: 8 - Mesa para casal escolhida.
+u: Pedido1 at 2179.098731378345: Pedido da mesa feito
+u: Restaurante at 2204.343605029402: Cliente 1 no restaurante.
+u: Mesa1 at 2259.898731378345: pedido Feito
+u: Cliente2 at 2270.437679775068: 7 - Mesa para casal escolhida.
+u: Restaurante at 2299.27525279049: Cliente 2 no restaurante.
+u: Cliente1 at 2302.6874736685677: 9 - Mesa para casal escolhida.
+u: Mesa2 at 2308.87932876169: pedido Feito
+u: Pedido2 at 2312.183521116673: Pedido da mesa feito
+u: Restaurante at 2401.0474316131895: Cliente 1 no restaurante.
+u: Cliente2 at 2423.405808306887: 8 - Mesa para casal escolhida.
+u: Cliente1 at 2507.5058975718894: 10 - Mesa para casal escolhida.
+u: Mesa2 at 2509.27932876169: pedido Feito
+u: Mesa1 at 2510.298731378345: pedido Feito
+u: Pedido1 at 2514.2987313783447: Pedido da mesa feito
+u: Cliente2 at 2574.8577182496197: 9 - Mesa para casal escolhida.
+u: Restaurante at 2704.032287463712: Cliente 2 no restaurante.
+u: Mesa2 at 2709.67932876169: pedido Feito
+u: Pedido2 at 2747.383521116673: Pedido da mesa feito
+u: Mesa1 at 2760.698731378345: pedido Feito
+u: Cliente2 at 2843.952800172069: 10 - Mesa para casal escolhida.
+u: Pedido1 at 2849.4987313783445: Pedido da mesa feito
+u: Restaurante at 2899.528368514199: Cliente 1 no restaurante.
+u: Mesa2 at 2910.0793287616902: pedido Feito
+u: Cliente1 at 2999.4374148275842: 11 - Mesa para casal escolhida.
+u: Mesa1 at 3011.0987313783453: pedido Feito
+u: Mesa2 at 3110.4793287616903: pedido Feito
+u: Pedido2 at 3182.5835211166727: Pedido da mesa feito
+u: Pedido1 at 3184.6987313783443: Pedido da mesa feito
+u: Restaurante at 3244.0310835315495: Cliente 2 no restaurante.
+u: Mesa1 at 3261.4987313783454: pedido Feito
+u: Restaurante at 3358.642057897819: Cliente 1 no restaurante.
+u: Cliente2 at 3402.0537768377803: 11 - Mesa para casal escolhida.
+u: Cliente1 at 3479.939647741401: 12 - Mesa para casal escolhida.
+u: Mesa1 at 3511.8987313783455: pedido Feito
+u: Pedido1 at 3519.898731378344: Pedido da mesa feito
+u: Mesa2 at 3602.4537768377804: pedido Feito
+u: Pedido2 at 3617.7835211166725: Pedido da mesa feito
+u: Restaurante at 3666.9594037437455: Cliente 2 no restaurante.
+u: Mesa1 at 3762.2987313783456: pedido Feito
+u: Cliente2 at 3825.1792783662418: 12 - Mesa para casal escolhida.
+u: Restaurante at 3833.3460683967496: Cliente 1 no restaurante.
+u: Pedido1 at 3855.098731378344: Pedido da mesa feito
+u: Cliente1 at 3941.36851304965: 13 - Mesa para casal escolhida.
+u: Mesa2 at 4025.579278366242: pedido Feito
+u: Restaurante at 4033.4426842573207: Cliente 2 no restaurante.
+u: Pedido2 at 4052.9835211166724: Pedido da mesa feito
+u: Restaurante at 4114.1387982851: Cliente 1 no restaurante.
+u: Cliente2 at 4169.3665951169005: 13 - Mesa para casal escolhida.
+u: Pedido1 at 4190.298731378344: Pedido da mesa feito
+u: Mesa1 at 4191.76851304965: pedido Feito
+u: Cliente1 at 4219.748347551504: 14 - Mesa para casal escolhida.
+u: Restaurante at 4331.07301362942: Cliente 2 no restaurante.
+u: Mesa2 at 4369.7665951169: pedido Feito
+u: Mesa1 at 4470.148347551503: pedido Feito
+u: Pedido2 at 4488.183521116673: Pedido da mesa feito
+u: Cliente2 at 4493.15505538619: 14 - Mesa para casal escolhida.
+u: Restaurante at 4496.778718430489: Cliente 1 no restaurante.
+u: Pedido1 at 4525.498731378344: Pedido da mesa feito
+u: Cliente1 at 4593.242392128556: 15 - Mesa para casal escolhida.
+u: Restaurante at 4625.105706961292: Cliente 2 no restaurante.
+u: Mesa2 at 4693.555055386189: pedido Feito
+u: Restaurante at 4740.618533495084: Cliente 1 no restaurante.
+u: Cliente2 at 4768.9687744703615: 15 - Mesa para casal escolhida.
+u: Cliente1 at 4831.986090977718: 16 - Mesa para casal escolhida.
+u: Mesa1 at 4843.642392128556: pedido Feito
+u: Pedido1 at 4860.698731378344: Pedido da mesa feito
+u: Pedido2 at 4923.3835211166725: Pedido da mesa feito
+u: Restaurante at 4943.278713666931: Cliente 2 no restaurante.
+u: Mesa2 at 4969.368774470361: pedido Feito
+u: Restaurante at 4993.003091871929: Cliente 1 no restaurante.
+u: Cliente1 at 5090.341766767193: 17 - Mesa para casal escolhida.
+u: Mesa1 at 5094.042392128556: pedido Feito
+u: Cliente2 at 5098.43034919381: 16 - Mesa para casal escolhida.
+u: Restaurante at 5174.62965109271: Cliente 2 no restaurante.
+u: Pedido1 at 5195.898731378344: Pedido da mesa feito
+u: Restaurante at 5196.075639469206: Cliente 1 no restaurante.
+u: Mesa2 at 5298.8303491938095: pedido Feito
+u: Cliente1 at 5316.540001538888: 18 - Mesa para casal escolhida.
+u: Cliente2 at 5319.580025846147: 17 - Mesa para casal escolhida.
+u: Mesa1 at 5344.442392128555: pedido Feito
+u: Pedido2 at 5358.583521116672: Pedido da mesa feito
+u: Restaurante at 5382.0389617312185: Cliente 2 no restaurante.
+u: Restaurante at 5435.812186405702: Cliente 1 no restaurante.
+u: Restaurante at 5501.022473522406: Cliente 2 no restaurante.
+u: Restaurante at 5503.383647354354: Cliente 1 no restaurante.
+u: Mesa2 at 5519.980025846146: pedido Feito
+u: Pedido1 at 5531.0987313783435: Pedido da mesa feito
+u: Cliente2 at 5533.042302518515: 18 - Mesa para casal escolhida.
+u: Cliente1 at 5545.332808138818: 19 - Mesa para casal escolhida.
+u: Mesa1 at 5594.842392128555: pedido Feito
+u: Cliente1 at 5642.267501574089: 20 - Mesa para casal escolhida.
+u: Restaurante at 5673.978953148303: Cliente 2 no restaurante.
+u: Cliente2 at 5677.484633218363: 19 - Mesa para casal escolhida.
+u: Mesa2 at 5733.442302518514: pedido Feito
+u: Restaurante at 5748.611116483027: Cliente 1 no restaurante.
+u: Pedido2 at 5793.783521116672: Pedido da mesa feito
+u: Cliente2 at 5833.868126202753: 20 - Mesa para casal escolhida.
+u: Restaurante at 5835.6805886519505: Cliente 2 no restaurante.
+u: Mesa1 at 5845.2423921285545: pedido Feito
+u: Cliente1 at 5848.270804278565: 21 - Mesa para casal escolhida.
+u: Pedido1 at 5866.298731378343: Pedido da mesa feito
+u: Restaurante at 5874.9424737592: Cliente 1 no restaurante.
+u: Mesa2 at 5933.842302518514: pedido Feito
+u: Cliente1 at 5981.004999880407: 22 - Mesa para casal escolhida.
+u: Cliente2 at 5989.219817200821: 21 - Mesa para casal escolhida.
+u: Restaurante at 6054.419065528448: Cliente 2 no restaurante.
+u: Mesa1 at 6095.642392128554: pedido Feito
+u: Mesa2 at 6134.2423025185135: pedido Feito
+u: Pedido1 at 6201.498731378343: Pedido da mesa feito
+u: Cliente2 at 6208.781647976412: 22 - Mesa para casal escolhida.
+u: Pedido2 at 6228.983521116672: Pedido da mesa feito
+u: Mesa2 at 6334.642302518513: pedido Feito
+u: Mesa1 at 6346.042392128554: pedido Feito
+u: Restaurante at 6466.455853813823: Cliente 1 no restaurante.
+u: Restaurante at 6510.20128428127: Cliente 2 no restaurante.
+u: Mesa2 at 6535.042302518513: pedido Feito
+u: Pedido1 at 6536.698731378343: Pedido da mesa feito
+u: Cliente1 at 6579.642281630121: 23 - Mesa para casal escolhida.
+u: Mesa1 at 6596.442392128553: pedido Feito
+u: Cliente2 at 6655.354598976693: 23 - Mesa para casal escolhida.
+u: Pedido2 at 6664.183521116672: Pedido da mesa feito
+u: Mesa1 at 6846.842392128553: pedido Feito
+u: Mesa2 at 6855.754598976692: pedido Feito
+u: Pedido1 at 6871.898731378343: Pedido da mesa feito
+u: Restaurante at 6903.360624955532: Cliente 1 no restaurante.
+u: Restaurante at 6946.574522956822: Cliente 2 no restaurante.
+u: Cliente1 at 6999.2545539997045: 24 - Mesa para casal escolhida.
+u: Restaurante at 7073.246588110198: Cliente 1 no restaurante.
+u: Pedido2 at 7099.383521116672: Pedido da mesa feito
+u: Cliente2 at 7102.5874408938225: 24 - Mesa para casal escolhida.
+u: Cliente1 at 7182.267081151162: 25 - Mesa para casal escolhida.
+u: Pedido1 at 7207.098731378343: Pedido da mesa feito
+u: Mesa1 at 7249.654553999704: pedido Feito
+u: Mesa2 at 7302.987440893822: pedido Feito
+u: Mesa1 at 7500.054553999704: pedido Feito
+u: Pedido2 at 7534.583521116671: Pedido da mesa feito
+u: Pedido1 at 7542.298731378342: Pedido da mesa feito
+u: Restaurante at 7610.565275289042: Cliente 2 no restaurante.
+u: Cliente2 at 7748.465498702507: 25 - Mesa para casal escolhida.
+u: Restaurante at 7806.657037326973: Cliente 1 no restaurante.
+u: Restaurante at 7809.1817922987175: Cliente 2 no restaurante.
+u: Restaurante at 7863.87823451195: Cliente 1 no restaurante.
+u: Pedido1 at 7877.498731378342: Pedido da mesa feito
+u: Cliente1 at 7898.045897283928: 26 - Mesa para casal escolhida.
+u: Mesa2 at 7948.865498702507: pedido Feito
+u: Cliente2 at 7962.240322832874: 26 - Mesa para casal escolhida.
+u: Restaurante at 7966.9652698253: Cliente 2 no restaurante.
+u: Pedido2 at 7969.783521116671: Pedido da mesa feito
+u: Cliente1 at 8004.836681780991: 27 - Mesa para casal escolhida.
+u: Restaurante at 8042.950679514169: Cliente 1 no restaurante.
+u: Cliente2 at 8110.77534610188: 27 - Mesa para casal escolhida.
+u: Mesa1 at 8148.4458972839275: pedido Feito
+u: Cliente1 at 8152.9543148692: 28 - Mesa para casal escolhida.
+u: Mesa2 at 8162.640322832874: pedido Feito
+u: Restaurante at 8172.702337117272: Cliente 2 no restaurante.
+u: Restaurante at 8190.006424759641: Cliente 1 no restaurante.
+u: Pedido1 at 8212.698731378343: Pedido da mesa feito
+u: Cliente1 at 8293.32835671735: 29 - Mesa para casal escolhida.
+u: Cliente2 at 8339.904377667905: 28 - Mesa para casal escolhida.
+u: Restaurante at 8363.026621879959: Cliente 2 no restaurante.
+u: Mesa2 at 8363.040322832874: pedido Feito
+u: Mesa1 at 8398.845897283927: pedido Feito
+u: Pedido2 at 8404.983521116672: Pedido da mesa feito
+u: Restaurante at 8450.507209284115: Cliente 1 no restaurante.
+u: Cliente2 at 8511.955171198946: 29 - Mesa para casal escolhida.
+u: Restaurante at 8521.375665373902: Cliente 2 no restaurante.
+u: Pedido1 at 8547.898731378344: Pedido da mesa feito
+u: Cliente1 at 8553.557980834516: 30 - Mesa para casal escolhida.
+u: Mesa2 at 8563.440322832874: pedido Feito
+u: Restaurante at 8624.544323169317: Cliente 1 no restaurante.
+u: Mesa1 at 8649.245897283927: pedido Feito
+u: Cliente2 at 8663.605959970237: 30 - Mesa para casal escolhida.
+u: Cliente1 at 8716.632100696954: 31 - Mesa para casal escolhida.
+u: Restaurante at 8750.534228577051: Cliente 2 no restaurante.
+u: Mesa2 at 8763.840322832873: pedido Feito
+u: Restaurante at 8765.850361317853: Cliente 1 no restaurante.
+u: Restaurante at 8827.551921471486: Cliente 2 no restaurante.
+u: Pedido2 at 8840.183521116673: Pedido da mesa feito
+u: Restaurante at 8846.37865556898: Cliente 1 no restaurante.
+u: Cliente1 at 8859.342835473248: 32 - Mesa para casal escolhida.
+u: Pedido1 at 8883.098731378344: Pedido da mesa feito
+u: Cliente2 at 8898.479810020302: 31 - Mesa para casal escolhida.
+u: Mesa1 at 8899.645897283926: pedido Feito
+u: Cliente1 at 8955.522174965576: 33 - Mesa para casal escolhida.
+u: Mesa2 at 8964.240322832873: pedido Feito
+u: Restaurante at 8995.164100455646: Cliente 2 no restaurante.
+u: Cliente2 at 9042.699862576397: 32 - Mesa para casal escolhida.
+u: Restaurante at 9070.385748646793: Cliente 1 no restaurante.
+u: Mesa1 at 9150.045897283926: pedido Feito
+u: Mesa2 at 9164.640322832873: pedido Feito
+u: Cliente1 at 9187.109559409986: 34 - Mesa para casal escolhida.
+u: Restaurante at 9191.710654079943: Cliente 2 no restaurante.
+u: Cliente2 at 9199.369668796155: 33 - Mesa para casal escolhida.
+u: Pedido1 at 9218.298731378345: Pedido da mesa feito
+u: Pedido2 at 9275.383521116673: Pedido da mesa feito
+u: Restaurante at 9286.759251276404: Cliente 1 no restaurante.
+u: Cliente2 at 9354.672389848358: 34 - Mesa para casal escolhida.
+u: Mesa2 at 9365.040322832872: pedido Feito
+u: Cliente1 at 9384.502128562428: 35 - Mesa para casal escolhida.
+u: Restaurante at 9391.996552529767: Cliente 2 no restaurante.
+u: Mesa1 at 9400.445897283926: pedido Feito
+u: Cliente2 at 9541.239926003402: 35 - Mesa para casal escolhida.
+u: Pedido1 at 9553.498731378346: Pedido da mesa feito
+u: Mesa2 at 9565.440322832872: pedido Feito
+u: Mesa1 at 9650.845897283925: pedido Feito
+u: Restaurante at 9684.096468757225: Cliente 1 no restaurante.
+u: Pedido2 at 9710.583521116674: Pedido da mesa feito
+u: Restaurante at 9722.90067276846: Cliente 2 no restaurante.
+u: Mesa2 at 9765.840322832872: pedido Feito
+u: Cliente1 at 9785.17656895867: 36 - Mesa para casal escolhida.
+u: Cliente2 at 9878.554519514739: 36 - Mesa para casal escolhida.
+u: Pedido1 at 9888.698731378347: Pedido da mesa feito
+u: Mesa1 at 9901.245897283925: pedido Feito
+u: Mesa2 at 9966.240322832871: pedido Feito
+u: Pedido2 at 10145.783521116675: Pedido da mesa feito
+u: Mesa1 at 10151.645897283925: pedido Feito
+u: Mesa2 at 10166.64032283287: pedido Feito
+u: Pedido1 at 10223.898731378347: Pedido da mesa feito
+u: Restaurante at 10325.484748889388: Cliente 1 no restaurante.
+u: Mesa1 at 10402.045897283924: pedido Feito
+u: Cliente1 at 10438.660955575791: 37 - Mesa para casal escolhida.
+u: Pedido1 at 10559.098731378348: Pedido da mesa feito
+u: Pedido2 at 10580.983521116676: Pedido da mesa feito
+u: Mesa1 at 10652.445897283924: pedido Feito
+u: Restaurante at 10842.892749382112: Cliente 2 no restaurante.
+u: Pedido1 at 10894.298731378349: Pedido da mesa feito
+u: Mesa1 at 10902.845897283923: pedido Feito
+u: Cliente2 at 10991.252877480874: 37 - Mesa para casal escolhida.
+u: Pedido2 at 11016.183521116676: Pedido da mesa feito
+u: Restaurante at 11045.763982309445: Cliente 1 no restaurante.
+u: Cliente1 at 11166.01262128319: 38 - Mesa para casal escolhida.
+u: Mesa2 at 11191.652877480874: pedido Feito
+u: Pedido1 at 11229.49873137835: Pedido da mesa feito
+u: Mesa1 at 11416.412621283189: pedido Feito
+u: Pedido2 at 11451.383521116677: Pedido da mesa feito
+u: Pedido1 at 11564.69873137835: Pedido da mesa feito
+u: Restaurante at 11871.088700534472: Cliente 2 no restaurante.
+u: Pedido2 at 11886.583521116678: Pedido da mesa feito
+u: Pedido1 at 11899.898731378351: Pedido da mesa feito
+u: Restaurante at 11991.038432788904: Cliente 1 no restaurante.
+u: Cliente2 at 12008.759312376376: 38 - Mesa para casal escolhida.
+u: Cliente1 at 12079.356512419748: 39 - Mesa para casal escolhida.
+u: Restaurante at 12084.380760099737: Cliente 2 no restaurante.
+u: Restaurante at 12184.693593128603: Cliente 1 no restaurante.
+u: Restaurante at 12189.53272302017: Cliente 2 no restaurante.
+u: Mesa2 at 12209.159312376376: pedido Feito
+u: Cliente2 at 12234.111742387679: 39 - Mesa para casal escolhida.
+u: Pedido1 at 12235.098731378352: Pedido da mesa feito
+u: Cliente1 at 12287.847296204338: 40 - Mesa para casal escolhida.
+u: Pedido2 at 12321.783521116678: Pedido da mesa feito
+u: Mesa1 at 12329.756512419748: pedido Feito
+u: Cliente2 at 12387.125696667152: 40 - Mesa para casal escolhida.
+u: Mesa2 at 12434.511742387678: pedido Feito
+u: Restaurante at 12435.120242706096: Cliente 1 no restaurante.
+u: Restaurante at 12463.280705969935: Cliente 2 no restaurante.
+u: Cliente1 at 12526.249962554995: 41 - Mesa para casal escolhida.
+u: Pedido1 at 12570.298731378352: Pedido da mesa feito
+u: Mesa1 at 12580.156512419748: pedido Feito
+u: Cliente2 at 12618.03087308086: 41 - Mesa para casal escolhida.
+u: Mesa2 at 12634.911742387678: pedido Feito
+u: Restaurante at 12677.231913600493: Cliente 1 no restaurante.
+u: Pedido2 at 12756.98352111668: Pedido da mesa feito
+u: Cliente1 at 12791.071494654812: 42 - Mesa para casal escolhida.
+u: Mesa1 at 12830.556512419747: pedido Feito
+u: Mesa2 at 12835.311742387677: pedido Feito
+u: Pedido1 at 12905.498731378353: Pedido da mesa feito
+u: Restaurante at 12982.000210077684: Cliente 2 no restaurante.
+u: Restaurante at 13024.277715522901: Cliente 1 no restaurante.
+u: Mesa1 at 13080.956512419747: pedido Feito
+u: Cliente2 at 13126.047885985532: 42 - Mesa para casal escolhida.
+u: Restaurante at 13133.520928449205: Cliente 2 no restaurante.
+u: Cliente1 at 13136.172828281815: 43 - Mesa para casal escolhida.
+u: Restaurante at 13163.462959635144: Cliente 1 no restaurante.
+u: Pedido2 at 13192.18352111668: Pedido da mesa feito
+u: Pedido1 at 13240.698731378354: Pedido da mesa feito
+u: Cliente1 at 13264.232893032573: 44 - Mesa para casal escolhida.
+u: Cliente2 at 13275.59999209339: 43 - Mesa para casal escolhida.
+u: Mesa2 at 13326.447885985532: pedido Feito
+u: Restaurante at 13370.569007013391: Cliente 2 no restaurante.
+u: Mesa1 at 13386.572828281815: pedido Feito
+u: Cliente2 at 13510.988793504323: 44 - Mesa para casal escolhida.
+u: Mesa2 at 13526.847885985531: pedido Feito
+u: Pedido1 at 13575.898731378355: Pedido da mesa feito
+u: Pedido2 at 13627.38352111668: Pedido da mesa feito
+u: Mesa1 at 13636.972828281814: pedido Feito
+u: Restaurante at 13695.862613991103: Cliente 1 no restaurante.
+u: Mesa2 at 13727.247885985531: pedido Feito
+u: Restaurante at 13784.323017478902: Cliente 2 no restaurante.
+u: Cliente1 at 13791.702889955423: 45 - Mesa para casal escolhida.
+u: Restaurante at 13804.922779600207: Cliente 1 no restaurante.
+u: Cliente1 at 13909.506580437992: 46 - Mesa para casal escolhida.
+u: Pedido1 at 13911.098731378355: Pedido da mesa feito
+u: Restaurante at 13920.469083783983: Cliente 2 no restaurante.
+u: Cliente2 at 13932.694431478509: 45 - Mesa para casal escolhida.
+u: Mesa1 at 14042.102889955422: pedido Feito
+u: Pedido2 at 14062.583521116681: Pedido da mesa feito
+u: Restaurante at 14077.579338051306: Cliente 1 no restaurante.
+u: Cliente2 at 14080.25666066492: 46 - Mesa para casal escolhida.
+u: Mesa2 at 14133.094431478508: pedido Feito
+u: Cliente1 at 14177.135463842636: 47 - Mesa para casal escolhida.
+u: Pedido1 at 14246.298731378356: Pedido da mesa feito
+u: Restaurante at 14262.38616914308: Cliente 2 no restaurante.
+u: Mesa1 at 14292.502889955422: pedido Feito
+u: Mesa2 at 14333.494431478508: pedido Feito
+u: Restaurante at 14356.500940868154: Cliente 1 no restaurante.
+u: Cliente2 at 14409.704428446563: 47 - Mesa para casal escolhida.
+u: Cliente1 at 14465.083253427954: 48 - Mesa para casal escolhida.
+u: Restaurante at 14467.15134015487: Cliente 2 no restaurante.
+u: Pedido2 at 14497.783521116682: Pedido da mesa feito
+u: Mesa1 at 14542.902889955421: pedido Feito
+u: Pedido1 at 14581.498731378357: Pedido da mesa feito
+u: Mesa2 at 14610.104428446562: pedido Feito
+u: Cliente2 at 14617.486316085413: 48 - Mesa para casal escolhida.
+u: Restaurante at 14705.356491527538: Cliente 1 no restaurante.
+u: Mesa1 at 14793.302889955421: pedido Feito
+u: Cliente1 at 14813.989296995902: 49 - Mesa para casal escolhida.
+u: Mesa2 at 14817.886316085413: pedido Feito
+u: Restaurante at 14876.715597368197: Cliente 2 no restaurante.
+u: Pedido1 at 14916.698731378357: Pedido da mesa feito
+u: Pedido2 at 14932.983521116683: Pedido da mesa feito
+u: Cliente2 at 15020.612047809445: 49 - Mesa para casal escolhida.
+u: Mesa1 at 15064.389296995902: pedido Feito
+u: Mesa2 at 15221.012047809445: pedido Feito
+u: Pedido1 at 15251.898731378358: Pedido da mesa feito
+u: Pedido2 at 15368.183521116684: Pedido da mesa feito
+u: Pedido1 at 15587.098731378359: Pedido da mesa feito
+u: Pedido2 at 15803.383521116684: Pedido da mesa feito
+u: Pedido1 at 15922.29873137836: Pedido da mesa feito
+u: Pedido2 at 16238.583521116685: Pedido da mesa feito
+u: Pedido1 at 16257.49873137836: Pedido da mesa feito
+u: Pedido1 at 16592.69873137836: Pedido da mesa feito
+u: Pedido2 at 16673.783521116686: Pedido da mesa feito
+u: Pedido1 at 16927.898731378362: Pedido da mesa feito
+u: Pedido2 at 17108.983521116686: Pedido da mesa feito
+u: Pedido1 at 17263.098731378363: Pedido da mesa feito
+u: Pedido2 at 17544.183521116687: Pedido da mesa feito
+u: Pedido2 at 17979.383521116688: Pedido da mesa feito
+u: Pedido2 at 18414.58352111669: Pedido da mesa feito
+u: Pedido2 at 18849.78352111669: Pedido da mesa feito
+u: Pedido2 at 19284.98352111669: Pedido da mesa feito
+u: Pedido2 at 19720.18352111669: Pedido da mesa feito
+u: Pedido2 at 20155.38352111669: Pedido da mesa feito
+u: Pedido2 at 20590.583521116692: Pedido da mesa feito
+u: Pedido2 at 21025.783521116693: Pedido da mesa feito
+u: Pedido2 at 21460.983521116694: Pedido da mesa feito
+u: Pedido2 at 21896.183521116694: Pedido da mesa feito
+u: Pedido2 at 22331.383521116695: Pedido da mesa feito
+u: Mesa1 at 22331.383521116695: pedido Feito
+u: Pedido2 at 22331.383521116695: Pedido da mesa feito
+u: Pedido1 at 22331.383521116695: Pedido da mesa feito
+u: Cliente1 at 22331.383521116695: 50 - Mesa para casal escolhida.
+u: Mesa2 at 22331.383521116695: pedido Feito
+u: Garcom1 at 22331.383521116695: Pedido recebido.
+u: Garcom2 at 22331.383521116695: Pedido recebido.
+u: Garcom2 at 22331.383521116695: Pedido pronto.
+u: Garcom1 at 22331.383521116695: Pedido pronto.
+u: Cliente2 at 22331.383521116695: 50 - Mesa para casal escolhida.
