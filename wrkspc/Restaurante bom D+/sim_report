@@ -1,0 +1,275 @@
+############################################################
+#                                                          #
+#                    SIMULATION REPORT                     #
+#                                                          #
+############################################################
+
+Version: SimJava 2.0
+
+Simulation date:         7 de Novembro de 2018
+Simulation start time:   0h51min51s BRT
+Simulation end time:     0h51min51s BRT
+
+############################################################
+#            Overall simulation run information            #
+############################################################
+
+Total simulated time:    22331.383521116695
+Total transient time:    0.0
+Total steady state time: 22331.383521116695
+Transient condition:     None
+Termination condition:   None
+Output analysis method:  None
+
+############################################################
+#               Simulation run measurements                #
+############################################################
+
+------------------------- Cliente1 -------------------------
+
+- Arrival rate
+
+Sample mean:          0.0022390014462256532
+Event count:          50
+
+- Queue length
+
+Sample mean:          0.008954436721601032
+Sample variance:      0.008874254784599874
+Sample std deviation: 0.09420326313137924
+Maximum:              1.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          3.9992992129128697
+Sample variance:      188.5532650125268
+Sample std deviation: 13.731469878076666
+Maximum:              75.39157112500152
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.23206245738332987
+
+- Residence time
+
+Sample mean:          107.64481394651162
+Sample variance:      237.1040235822569
+Sample std deviation: 15.398182476586543
+Maximum:              172.00313753712908
+Minimum:              88.3180796308443
+
+-------------------------- Mesa1 ---------------------------
+
+- Throughput
+
+Sample mean:          0.0022390014462256532
+Event count:          50
+
+- Residence time
+
+Sample mean:          423.9787383022174
+Sample variance:      47485.989588749995
+Sample std deviation: 217.91280271877096
+Maximum:              1017.5437687214962
+Minimum:              250.39999999999964
+
+- Utilisation
+
+Sample mean:          0.560645962134903
+
+------------------------- Pedido1 --------------------------
+
+- Arrival rate
+
+Sample mean:          0.0022390014462256532
+Event count:          50
+
+- Queue length
+
+Sample mean:          2.4479768376105184
+Sample variance:      4.334443933192025
+Sample std deviation: 2.0819327398338365
+Maximum:              6.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          1093.3341922298177
+Sample variance:      340368.33185575646
+Sample std deviation: 583.4109459512707
+Maximum:              2002.6528340944296
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.7505132847748398
+
+- Residence time
+
+Sample mean:          1428.5341922298182
+Sample variance:      340368.331855756
+Sample std deviation: 583.4109459512703
+Maximum:              2337.8528340944304
+Minimum:              335.19999999999993
+
+------------------------- Garcom1 --------------------------
+
+- Arrival rate
+
+Sample mean:          0.0
+Event count:          0
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.0
+
+- Residence time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+------------------------- Cliente2 -------------------------
+
+- Arrival rate
+
+Sample mean:          0.0022390014462256532
+Event count:          50
+
+- Queue length
+
+Sample mean:          0.03373324424897763
+Sample variance:      0.04173997453063944
+Sample std deviation: 0.2043036331802238
+Maximum:              2.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          15.066200294708473
+Sample variance:      2113.5977639561124
+Sample std deviation: 45.97388132359625
+Maximum:              264.06482870947775
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.3352550091833764
+
+- Residence time
+
+Sample mean:          164.80036404369807
+Sample variance:      2270.412398565665
+Sample std deviation: 47.64884467188754
+Maximum:              417.032957241297
+Minimum:              135.9239108595798
+
+-------------------------- Mesa2 ---------------------------
+
+- Throughput
+
+Sample mean:          0.0022390014462256532
+Event count:          50
+
+- Residence time
+
+Sample mean:          242.96184941441555
+Sample variance:      3430.7546748816585
+Sample std deviation: 58.57264442452345
+Maximum:              425.00039682946954
+Minimum:              200.39999999999964
+
+- Utilisation
+
+Sample mean:          0.44869588982362035
+
+------------------------- Pedido2 --------------------------
+
+- Arrival rate
+
+Sample mean:          0.0022390014462256532
+Event count:          50
+
+- Queue length
+
+Sample mean:          8.014599080123405
+Sample variance:      22.78661192266894
+Sample std deviation: 4.773532436536798
+Maximum:              16.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          3579.541716524496
+Sample variance:      4151872.0206918814
+Sample std deviation: 2037.614296350485
+Maximum:              6675.1714733072495
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.9744134293974053
+
+- Residence time
+
+Sample mean:          4014.7417165244965
+Sample variance:      4151872.020691889
+Sample std deviation: 2037.6142963504867
+Maximum:              7110.37147330725
+Minimum:              435.19999999999993
+
+------------------------- Garcom2 --------------------------
+
+- Arrival rate
+
+Sample mean:          0.0
+Event count:          0
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.0
+
+- Residence time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+

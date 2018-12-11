@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;lib&apos;&#x0A;- Original project: &apos;RedeSocial+Pop&apos;&#x0A;- Destination element: &apos;lib&apos;&#x0A;- Original elements:&#x0A;     simjava.jar&#x0A;     SJGV.jar" description="Copy files" element1="lib/simjava.jar" element2="lib/SJGV.jar" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1541038147436" target="/Restaurante bom D+/lib" units="0" version="1.0"/>
+</session>
