@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
 <entry loc="/usr/lib/jvm/java-8-oracle" stamp="1525830213000"/>
+<<<<<<< HEAD
 <entry loc="/usr/lib/jvm/java-8-openjdk-amd64" stamp="1541085268000"/>
+=======
+<entry loc="/usr/lib/jvm/java-8-openjdk-amd64" stamp="1541553411000"/>
+>>>>>>> f0d87a4459dab665ab2e0576ddd34799a3515e4c
 </dirs>

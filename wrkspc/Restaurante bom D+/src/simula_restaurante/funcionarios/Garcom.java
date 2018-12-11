@@ -1,21 +1,37 @@
 package simula_restaurante.funcionarios;
 
 import eduni.simjava.*;
+import eduni.simjava.distributions.Sim_negexp_obj;
 
-public class Garcom extends Sim_entity{
+public class Garcom extends Funcionario{
 	
-	private Sim_port entrada1, saida1;
-	private double delay;
+	private double delay_time;
+	private Sim_port entradaFromPedido;
+	private Sim_stat stat;
+	private Sim_negexp_obj delay;
 	
-	public Garcom(String nome, double delay) {
+	public Garcom(String nome, double mean) {
 		super(nome);
+		delay_time = mean;
+		delay = new Sim_negexp_obj("Delay", mean);
 		
-		this.delay = delay;
-		entrada1 = new Sim_port("Pedido 01.");
-		saida1 = new Sim_port("Pedido 01 Pronto.");
+		this.stat = new Sim_stat();
 		
-		add_port(entrada1);
-		add_port(saida1);
+		entradaFromPedido = new Sim_port("entradaFromPedido");
+		
+		add_port(entradaFromPedido);
+		
+		
+		
+		add_generator(delay);
+		
+		this.stat.add_measure(Sim_stat.ARRIVAL_RATE);
+		this.stat.add_measure(Sim_stat.QUEUE_LENGTH);
+		this.stat.add_measure(Sim_stat.WAITING_TIME);
+		this.stat.add_measure(Sim_stat.UTILISATION);
+		this.stat.add_measure(Sim_stat.RESIDENCE_TIME);
+		
+		set_stat(stat);
 	}
 
 	public void body () {
@@ -24,11 +40,11 @@ public class Garcom extends Sim_entity{
             // Get the next event
             sim_get_next(e);
             // Process the event
-            sim_trace(1, "Pedido 01 recebido.");
-            sim_process(delay);
+            sim_trace(1, "Pedido recebido.");
+            sim_process(delay_time);
             // The event has completed service
             sim_completed(e);
-            sim_trace(1, "Pedido 01 pronto.");
+            sim_trace(1, "Pedido pronto.");
           }
 	}
 	
