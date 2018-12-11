@@ -1,7 +1,7 @@
 Opaaa!
 
 Para executar:
-	- o script principal é o *medicao.sh*
+>>	- o script principal é o *medicao.sh*
 	- recebe como entrada um parâmetro: o caminho do video
 	- para executar basta rodar:
 		bash +x medicao.sh [video_folder]
